@@ -18,11 +18,11 @@
 
 
 
-### \*Bridging 16+ Years of Pharmaceutical Patent Expertise with Modern Cheminformatics, Molecular Informatics & Scientific AI Quality Control\*
+### *Bridging 16+ Years of Pharmaceutical Patent Expertise with Modern Cheminformatics, Molecular Informatics & Scientific AI Quality Control*
 
 
 
-> \*\*Five engines. Five real patents. One integrated scientific intelligence platform.\*\*
+> **Five engines. Five real patents. One integrated scientific intelligence platform.**
 
 >
 
@@ -38,7 +38,7 @@
 
 
 
-\*\*PatentRx Intelligence X\*\* is a modular, Python-based pharmaceutical patent intelligence and scientific quality-control platform.
+**PatentRx Intelligence X** is a modular, Python-based pharmaceutical patent intelligence and scientific quality-control platform.
 
 
 
@@ -46,7 +46,7 @@ The project integrates five specialized computational engines, each addressing a
 
 
 
-Unlike conventional structure-processing applications that focus on individual molecules, PatentRx Intelligence X combines \*\*chemical reasoning, patent evidence, molecular validation, and structured QC reporting\*\*.
+Unlike conventional structure-processing applications that focus on individual molecules, PatentRx Intelligence X combines **chemical reasoning, patent evidence, molecular validation, and structured QC reporting**.
 
 
 
@@ -54,17 +54,17 @@ The platform supports:
 
 
 
-\- Organic reaction and atom-mapping analysis
+- Organic reaction and atom-mapping analysis
 
-\- Molecular stereochemistry and chirality validation
+- Molecular stereochemistry and chirality validation
 
-\- Metal-complex connectivity and structural screening
+- Metal-complex connectivity and structural screening
 
-\- Patent-derived bioactivity data normalization
+- Patent-derived bioactivity data normalization
 
-\- Exact molecular identity and bounded Markush analysis
+- Exact molecular identity and bounded Markush analysis
 
-\- Reproducible scientific QC and evidence documentation
+- Reproducible scientific QC and evidence documentation
 
 
 
@@ -72,7 +72,7 @@ Five real patent documents provide scientific reference cases, alongside synthet
 
 
 
-\*\*Validation:\*\* 67/67 Python regression tests passed on October 18, 2026.
+**Validation:** 63/63 Python regression tests passed on October 18, 2026.
 
 
 
@@ -122,31 +122,31 @@ Five real patent documents provide scientific reference cases, alongside synthet
 
 
 
-\*\*Reference patent:\*\* WO2011103442A2
+**Reference patent:** WO2011103442A2
 
 
 
-\*\*Focus:\*\* Organic reaction pathways, chemical transformations and atom-mapping QC.
+**Focus:** Organic reaction pathways, chemical transformations and atom-mapping QC.
 
 
 
-\*\*Capabilities:\*\*
+**Capabilities:**
 
-\- Reaction structure parsing and validation
+- Reaction structure parsing and validation
 
-\- Atom correspondence and reaction-center analysis
+- Atom correspondence and reaction-center analysis
 
-\- Bond-change and transformation checks
+- Bond-change and transformation checks
 
-\- Four-step patent route analysis
+- Four-step patent route analysis
 
-\- Reaction evidence and provenance tracking
+- Reaction evidence and provenance tracking
 
-\- Structured reaction QC reporting
+- Structured reaction QC reporting
 
 
 
-\*\*Scientific scope:\*\* Computational reaction and structure consistency checks. The separate demonstration record `WO2011103442A2-R001` remains explicitly unverified.
+**Scientific scope:** Computational reaction and structure consistency checks. The separate demonstration record `WO2011103442A2-R001` remains explicitly unverified.
 
 
 
@@ -154,31 +154,31 @@ Five real patent documents provide scientific reference cases, alongside synthet
 
 
 
-\*\*Reference patent:\*\* US20110124909A1
+**Reference patent:** US20110124909A1
 
 
 
-\*\*Focus:\*\* Stereochemical interpretation and molecular chirality.
+**Focus:** Stereochemical interpretation and molecular chirality.
 
 
 
-\*\*Capabilities:\*\*
+**Capabilities:**
 
-\- RDKit stereocenter detection
+- RDKit stereocenter detection
 
-\- CIP R/S assignment
+- CIP R/S assignment
 
-\- Enantiomer differentiation
+- Enantiomer differentiation
 
-\- Unspecified stereochemistry detection
+- Unspecified stereochemistry detection
 
-\- Molecular conformer comparison
+- Molecular conformer comparison
 
-\- Patent stereochemistry evidence documentation
+- Patent stereochemistry evidence documentation
 
 
 
-\*\*Scientific case:\*\* S-pregabalin, compared with R-pregabalin and an unspecified-stereochemistry control.
+**Scientific case:** S-pregabalin, compared with R-pregabalin and an unspecified-stereochemistry control.
 
 
 
@@ -186,31 +186,31 @@ Five real patent documents provide scientific reference cases, alongside synthet
 
 
 
-\*\*Reference patent:\*\* CN1202113C
+**Reference patent:** CN1202113C
 
 
 
-\*\*Focus:\*\* Ruthenium coordination compounds and metal-containing molecular structures.
+**Focus:** Ruthenium coordination compounds and metal-containing molecular structures.
 
 
 
-\*\*Capabilities:\*\*
+**Capabilities:**
 
-\- Metal atom recognition
+- Metal atom recognition
 
-\- Ligand and connectivity screening
+- Ligand and connectivity screening
 
-\- Metal–ligand structural representation checks
+- Metal–ligand structural representation checks
 
-\- Disconnected-component detection
+- Disconnected-component detection
 
-\- Positive and negative coordination controls
+- Positive and negative coordination controls
 
-\- Computational 3D structural screening
+- Computational 3D structural screening
 
 
 
-\*\*Scientific scope:\*\* Connectivity and structural screening; not experimentally established coordination geometry, oxidation-state determination or full patent structure authentication.
+**Scientific scope:** Connectivity and structural screening; not experimentally established coordination geometry, oxidation-state determination or full patent structure authentication.
 
 
 
@@ -218,45 +218,45 @@ Five real patent documents provide scientific reference cases, alongside synthet
 
 
 
-\*\*Reference patent:\*\* EP3567030B1
+**Reference patent:** EP3567030B1
 
 
 
-\*\*Focus:\*\* EGFR inhibitor bioactivity and experimental evidence extraction.
+**Focus:** EGFR inhibitor bioactivity and experimental evidence extraction.
 
 
 
-\*\*Capabilities:\*\*
+**Capabilities:**
 
-\- Patent assay table extraction
+- Patent assay table extraction
 
-\- IC50 normalization
+- IC50 normalization
 
-\- Potency calculations
+- Potency calculations
 
-\- Exact, censored and missing measurement handling
+- Exact, censored and missing measurement handling
 
-\- Compound example indexing
+- Compound example indexing
 
-\- Analytical evidence inventory
+- Analytical evidence inventory
 
-\- Source-linked biological activity QC
-
-
-
-\*\*Scientific dataset:\*\*
-
-\- 34 compounds
-
-\- 5 assay endpoints
-
-\- 170 assay measurement cells
-
-\- EGFR wild-type, EGFR mutant and cellular assay data
+- Source-linked biological activity QC
 
 
 
-\*\*Scientific scope:\*\* Patent-derived assay normalization and evidence consistency, not experimentally reproduced biological activity or fully verified structure-to-assay mapping.
+**Scientific dataset:**
+
+- 34 compounds
+
+- 5 assay endpoints
+
+- 170 assay measurement cells
+
+- EGFR wild-type, EGFR mutant and cellular assay data
+
+
+
+**Scientific scope:** Patent-derived assay normalization and evidence consistency, not experimentally reproduced biological activity or fully verified structure-to-assay mapping.
 
 
 
@@ -264,49 +264,49 @@ Five real patent documents provide scientific reference cases, alongside synthet
 
 
 
-\*\*Reference patent:\*\* US7569577B2
+**Reference patent:** US7569577B2
 
 
 
-\*\*Focus:\*\* Quinazoline derivatives, stereochemical identity and bounded structural matching.
+**Focus:** Quinazoline derivatives, stereochemical identity and bounded structural matching.
 
 
 
-\*\*Capabilities:\*\*
+**Capabilities:**
 
-\- RDKit canonical SMILES processing
+- RDKit canonical SMILES processing
 
-\- Exact molecular identity matching
+- Exact molecular identity matching
 
-\- Stereochemical comparison
+- Stereochemical comparison
 
-\- Substituent variation controls
+- Substituent variation controls
 
-\- Molecular formula and mass consistency checks
+- Molecular formula and mass consistency checks
 
-\- Patent example and claim-reference documentation
-
-
-
-\*\*Scientific case:\*\* Example 35, the (2S) quinazoline parent compound.
+- Patent example and claim-reference documentation
 
 
 
-\*\*Computational validation:\*\*
-
-\- 5/5 patent-specific structural controls passed
-
-\- S versus R stereochemistry distinguished
-
-\- Unspecified stereochemistry rejected as an exact stereospecific match
-
-\- Substituent-modified and unrelated structures rejected
-
-\- Calculated [M+H]⁺ approximately 475.154, consistent with the patent's reported nominal m/z 475
+**Scientific case:** Example 35, the (2S) quinazoline parent compound.
 
 
 
-\*\*Scientific scope:\*\* Exact parent-structure matching, not comprehensive generic Markush enumeration or legal claim-coverage determination.
+**Computational validation:**
+
+- 5/5 patent-specific structural controls passed
+
+- S versus R stereochemistry distinguished
+
+- Unspecified stereochemistry rejected as an exact stereospecific match
+
+- Substituent-modified and unrelated structures rejected
+
+- Calculated [M+H]⁺ approximately 475.154, consistent with the patent's reported nominal m/z 475
+
+
+
+**Scientific scope:** Exact parent-structure matching, not comprehensive generic Markush enumeration or legal claim-coverage determination.
 
 
 
@@ -358,17 +358,16 @@ Version Control    : Git and GitHub
 
 ```text
 
-PatentRx\_Intelligence\_X\_COMPLETE/
+PatentRx_Intelligence_X_COMPLETE/
 
 │
 
 ├── README.md
 
-├── QUICK\_START.md
+├── QUICK_START.md
 
-├── README\_QC\_PACKAGE.md
+├── README_QC_PACKAGE.md
 
-├── README\_V2.md
 
 ├── pyproject.toml
 
@@ -396,27 +395,27 @@ PatentRx\_Intelligence\_X\_COMPLETE/
 
 │       ├── workbench.py
 
-│       ├── workbench\_cli.py
+│       ├── workbench_cli.py
 
 │       └── reporting.py
 
 │
 
-├── engine\_qc/
+├── engine_qc/
 
-│   ├── BioRx\_Engine4\_EP3567030B1/
+│   ├── BioRx_Engine4_EP3567030B1/
 
-│   ├── CoordRx\_Engine3\_CN1202113C/
+│   ├── CoordRx_Engine3_CN1202113C/
 
-│   ├── CoordRx\_Engine3\_CN1202113C\_completion/
+│   ├── CoordRx_Engine3_CN1202113C_completion/
 
-│   ├── MarkushRx\_Engine5\_US7569577B2/
+│   ├── MarkushRx_Engine5_US7569577B2/
 
-│   └── StereoRx\_Engine2\_US20110124909A1/
+│   └── StereoRx_Engine2_US20110124909A1/
 
 │
 
-├── qc\_review/
+├── qc_review/
 
 │   └── WO2011103442A2/
 
@@ -426,9 +425,9 @@ PatentRx\_Intelligence\_X\_COMPLETE/
 
 │   ├── examples/
 
-│   ├── patent\_cases/
+│   ├── patent_cases/
 
-│   └── workbench\_cases/
+│   └── workbench_cases/
 
 │
 
@@ -436,25 +435,25 @@ PatentRx\_Intelligence\_X\_COMPLETE/
 
 │   ├── INTEGRATION.md
 
-│   ├── PROJECT\_VISION.md
+│   ├── PROJECT_VISION.md
 
-│   ├── QC\_WORKFLOWS.md
+│   ├── QC_WORKFLOWS.md
 
-│   ├── SCIENTIFIC\_QC\_CHECKLIST.md
+│   ├── SCIENTIFIC_QC_CHECKLIST.md
 
-│   └── SCIENTIFIC\_VALIDATION.md
+│   └── SCIENTIFIC_VALIDATION.md
 
 │
 
 ├── tests/
 
-│   ├── test\_advanced.py
+│   ├── test_advanced.py
 
-│   ├── test\_platform.py
+│   ├── test_platform.py
 
-│   ├── test\_structure\_qc.py
+│   ├── test_structure_qc.py
 
-│   └── test\_workbench.py
+│   └── test_workbench.py
 
 │
 
@@ -566,7 +565,7 @@ cd PatentRx-Intelligence-X
 
 
 
-\*Repository access requires permission while the GitHub repository is private.\*
+*Repository access requires permission while the GitHub repository is private.*
 
 
 
@@ -614,9 +613,9 @@ python -m pytest -q
 
 ```bash
 
-python -m patentrx.workbench\_cli \\
+python -m patentrx.workbench_cli \\
 
-&#x20; data/workbench\_cases/01\_reaction\_demo.json \\
+&#x20; data/workbench_cases/01_reaction_demo.json \\
 
 &#x20; --output reports/reaction.json \\
 
@@ -678,19 +677,19 @@ The dashboard provides an optional user interface for interacting with the workb
 
 | Test framework | Pytest |
 
-| Tests executed | 67 |
+| Tests executed | 63 |
 
-| Tests passed | 67 |
+| Tests passed | 63 |
 
 | Tests failed | 0 |
 
-| Execution time | 1.38 seconds |
+| Execution time | 1.17 seconds |
 
 | Test date | October 18, 2026 |
 
 
 
-\*\*Result: 100% of the executed regression tests passed.\*\*
+**Result: 100% of the executed regression tests passed.**
 
 
 
@@ -710,19 +709,19 @@ The platform retains supporting scientific records for its reference cases, incl
 
 
 
-\- Patent PDF sources and source metadata
+- Patent PDF sources and source metadata
 
-\- Chemical structure representations
+- Chemical structure representations
 
-\- Reaction and stereochemistry controls
+- Reaction and stereochemistry controls
 
-\- Biological assay data and normalization records
+- Biological assay data and normalization records
 
-\- Molecular identity checks
+- Molecular identity checks
 
-\- Computational QC results
+- Computational QC results
 
-\- Documented limitations and uncertainty
+- Documented limitations and uncertainty
 
 
 
@@ -742,15 +741,15 @@ PatentRx Intelligence X includes a unified case-processing interface for running
 
 
 
-\*\*Available outputs:\*\*
+**Available outputs:**
 
-\- JSON QC reports
+- JSON QC reports
 
-\- Markdown QC reports
+- Markdown QC reports
 
-\- Scientific findings and validation messages
+- Scientific findings and validation messages
 
-\- Evidence and provenance references
+- Evidence and provenance references
 
 
 
@@ -766,7 +765,7 @@ The optional Streamlit application provides a graphical entry point to the platf
 
 
 
-PatentRx Intelligence X is a \*\*scientific computational QC and research portfolio project\*\*.
+PatentRx Intelligence X is a **scientific computational QC and research portfolio project**.
 
 
 
@@ -774,19 +773,19 @@ It does not claim:
 
 
 
-\- Comprehensive legal interpretation of patent claims
+- Comprehensive legal interpretation of patent claims
 
-\- Full generic Markush structure enumeration
+- Full generic Markush structure enumeration
 
-\- Experimentally validated molecular geometry
+- Experimentally validated molecular geometry
 
-\- Experimental verification of every patent structure
+- Experimental verification of every patent structure
 
-\- Protein binding-affinity prediction from contact distances
+- Protein binding-affinity prediction from contact distances
 
-\- Confirmed biological activity beyond the source-reported measurements
+- Confirmed biological activity beyond the source-reported measurements
 
-\- Independent certification or laboratory validation
+- Independent certification or laboratory validation
 
 
 
@@ -810,21 +809,21 @@ The platform demonstrates capabilities relevant to:
 
 
 
-\- Pharmaceutical patent intelligence
+- Pharmaceutical patent intelligence
 
-\- Chemical reaction data curation
+- Chemical reaction data curation
 
-\- Cheminformatics and molecular informatics
+- Cheminformatics and molecular informatics
 
-\- Scientific AI response evaluation
+- Scientific AI response evaluation
 
-\- Structure-based data quality control
+- Structure-based data quality control
 
-\- Bioactivity evidence normalization
+- Bioactivity evidence normalization
 
-\- Patent-aware chemical information systems
+- Patent-aware chemical information systems
 
-\- Molecular data benchmarking
+- Molecular data benchmarking
 
 
 
@@ -844,29 +843,29 @@ These are possible extensions, not claims of implemented functionality.
 
 
 
-Developed by a pharmaceutical patent and chemical informatics professional with \*\*16+ years of industry experience\*\*, combining expertise in:
+Developed by a pharmaceutical patent and chemical informatics professional with **16+ years of industry experience**, combining expertise in:
 
 
 
-\- Pharmaceutical patent analysis
+- Pharmaceutical patent analysis
 
-\- Chemical structure drawing and validation
+- Chemical structure drawing and validation
 
-\- Reaction extraction and synthesis interpretation
+- Reaction extraction and synthesis interpretation
 
-\- Markush and scaffold analysis
+- Markush and scaffold analysis
 
-\- Biopharma patent intelligence
+- Biopharma patent intelligence
 
-\- RDKit and Python cheminformatics
+- RDKit and Python cheminformatics
 
-\- Scientific data quality control
+- Scientific data quality control
 
-\- AI-assisted chemical reasoning and benchmarking
+- AI-assisted chemical reasoning and benchmarking
 
 
 
-\*\*PatentRx Intelligence X represents the integration of domain-specific pharmaceutical patent expertise with practical computational chemistry and reproducible scientific software development.\*\*
+**PatentRx Intelligence X represents the integration of domain-specific pharmaceutical patent expertise with practical computational chemistry and reproducible scientific software development.**
 
 
 
@@ -874,5 +873,5 @@ Developed by a pharmaceutical patent and chemical informatics professional with 
 
 
 
-\*Built to make pharmaceutical patent data more structured, chemically interpretable and scientifically auditable.\*
+*Built to make pharmaceutical patent data more structured, chemically interpretable and scientifically auditable.*
 
