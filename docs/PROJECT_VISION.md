@@ -13,8 +13,3 @@
 | Markush patents | MarkushRx | Finite enumeration and exact structure matching | Explicit patent claim graph/attachment semantics |
 | Scientific AI evaluation | Shared evidence layer | Traceable source/status fields, machine-readable reports | Human-authenticated expert gold standards and benchmarking |
 
-## Two-week presentation target
-- Week 1: inspect and qualify three actual source cases (organic, coordination, biopharma); test current engine limitations.
-- Week 2: add only scientifically supported case-specific checks, demonstrate five engines in one interface, publish validated and unresolved outcomes separately.
-
-**Career objective:** use this demonstrator for immediate remote patent/cheminformatics/AI evaluation outreach. No hiring or salary outcome is guaranteed.

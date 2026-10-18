@@ -5,7 +5,7 @@ Five engines, five real patents, one shared workflow, built by a patent-informat
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![RDKit](https://img.shields.io/badge/RDKit-cheminformatics-green)
-![Tests](https://img.shields.io/badge/tests-63%2F63%20passing-brightgreen)
+![Tests](https://img.shields.io/badge/tests-98%2F98%20passing-brightgreen)
 <!-- TODO: replace the Tests badge with a GitHub Actions badge once CI is set up:
 [![CI](https://github.com/saleema-ip-informatics/PatentRx-Intelligence-X/actions/workflows/ci.yml/badge.svg)](https://github.com/saleema-ip-informatics/PatentRx-Intelligence-X/actions) -->
 
@@ -26,7 +26,7 @@ It covers:
 
 Five real patents serve as scientific reference cases, alongside synthetic demonstration records and computational controls.
 
-**Validation:** 63/63 pytest regression tests passed on October 18, 2026.
+**Validation:** 98/98 pytest regression tests passed on October 18, 2026.
 
 ## The Five Engines
 
@@ -64,6 +64,8 @@ Assay table extraction, IC50 normalization, potency calculations, handling of ex
 
 **Scope:** patent-derived assay normalization and consistency. It does not reproduce biological activity or fully verify structure-to-assay mapping.
 
+PDB ligand proximity screening is included as a geometric check only. It does not confirm binding or predict affinity.
+
 ### 5. MarkushRx: Patent Structure Intelligence
 
 Canonical SMILES processing, exact molecular identity matching, stereochemical comparison, substituent variation controls, and formula/mass consistency checks.
@@ -83,7 +85,6 @@ Canonical SMILES processing, exact molecular identity matching, stereochemical c
 ```text
 Language           Python
 Cheminformatics    RDKit
-Chemical naming    OPSIN
 Data               JSON, structured patent evidence
 Molecular analysis SMILES, SMARTS, CIP stereochemistry
 Reaction analysis  Atom mapping, bond changes, reaction centers
@@ -100,7 +101,6 @@ Version control    Git and GitHub
 PatentRx_Intelligence_X_COMPLETE/
 ├── README.md
 ├── QUICK_START.md
-├── README_QC_PACKAGE.md
 ├── pyproject.toml
 ├── app.py
 ├── src/patentrx/
@@ -136,7 +136,6 @@ PatentRx_Intelligence_X_COMPLETE/
 │   ├── test_platform.py
 │   ├── test_structure_qc.py
 │   └── test_workbench.py
-└── tools/opsin/
 ```
 
 ## Scientific Workflow
@@ -233,8 +232,8 @@ streamlit run app.py
 | Metric | Result |
 |---|---|
 | Framework | Pytest |
-| Tests executed | 63 |
-| Tests passed | 63 |
+| Tests executed | 98 |
+| Tests passed | 98 |
 | Tests failed | 0 |
 | Test date | October 18, 2026 |
 

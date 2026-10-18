@@ -6,7 +6,7 @@ name = "patentrx-intelligence-x"
 version = "0.4.0"
 description = "Source-traceable molecular intelligence and scientific QC workbench"
 requires-python = ">=3.10"
-dependencies = ["rdkit", "pandas>=2", "pydantic>=2"]
+dependencies = ["rdkit"]
 [project.optional-dependencies]
 dev = ["pytest>=8"]
 dashboard = ["streamlit>=1.35"]
@@ -15,4 +15,5 @@ patentrx = "patentrx.cli:main"
 [tool.setuptools.packages.find]
 where = ["src"]
 [tool.pytest.ini_options]
-testpaths = ["tests"]
+testpaths = ["tests", "engine_qc"]
+addopts = "--import-mode=importlib"

@@ -16,8 +16,8 @@ PATENT_DIR = ROOT / "qc_review" / "WO2011103442A2"
 LABELS = {
     "reactionrx": "ReactionRx | Organic Synthesis",
     "stereorx": "StereoRx | Stereochemistry",
-    "coordrx": "CoordRx | Metal Coordination",
-    "biorx": "BioRx | Biopharma Evidence",
+    "coordrx": "CoordRx | Coordination Chemistry Intelligence",
+    "biorx": "BioRx | Bioactivity & Patent Evidence Intelligence",
     "markushrx": "MarkushRx | Patent Structures",
 }
 
@@ -28,7 +28,7 @@ st.set_page_config(
 )
 
 st.title("🧬 PatentRx Intelligence X")
-st.caption("Pharmaceutical Patent & Molecular Intelligence Platform")
+st.caption("Pharmaceutical Patent Intelligence & Scientific QC Workbench")
 st.warning(
     "Computational QC is not experimental validation "
     "or authenticated expert review."
@@ -53,7 +53,7 @@ for path in sorted(CASE_DIR.glob("*.json")):
 tab_analysis, tab_patent, tab_overview = st.tabs([
     "Scientific Analysis",
     "Patent Case Explorer",
-    "Platform Overview",
+    "Workbench Overview",
 ])
 
 with tab_analysis:
@@ -190,7 +190,7 @@ with tab_patent:
                 st.warning(f"File not found: {filename}")
 
 with tab_overview:
-    st.header("Platform Overview")
+    st.header("Workbench Overview")
     st.write("Five integrated scientific intelligence engines")
 
     for engine in ENGINES:
