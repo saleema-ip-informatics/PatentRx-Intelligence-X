@@ -42,7 +42,7 @@ Five real patents serve as scientific reference cases, alongside synthetic demon
 
 Reaction parsing and validation, atom correspondence and reaction-center analysis, bond-change checks, a four-step patent route analysis, and provenance tracking.
 
-**Scope:** computational reaction and structure-consistency checks. The demonstration record `WO2011103442A2-R001` is explicitly unverified. [One sentence on what the open item is, e.g. what evidence is missing before it can be marked verified.]
+**Scope:** computational reaction and structure-consistency checks. The demonstration record `WO2011103442A2-R001` is explicitly unverified.
 
 ### 2. StereoRx: Stereochemistry Intelligence
 
@@ -77,24 +77,6 @@ Canonical SMILES processing, exact molecular identity matching, stereochemical c
 - Calculated [M+H]⁺ ≈ 475.154, consistent with the patent's reported nominal m/z 475
 
 **Scope:** exact parent-structure matching. It is not generic Markush enumeration or a legal claim-coverage determination.
-
-## Example Output
-
-<!-- TODO: paste a trimmed real QC report here, e.g. from reports/reaction.json -->
-
-```json
-{
-  "case_id": "...",
-  "engine": "...",
-  "status": "...",
-  "findings": [],
-  "evidence": []
-}
-```
-
-## Dashboard
-
-<!-- TODO: add a Streamlit screenshot, e.g. ![Dashboard](docs/images/dashboard.png) -->
 
 ## Technology Stack
 
