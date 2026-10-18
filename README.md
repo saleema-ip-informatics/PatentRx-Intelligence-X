@@ -1,24 +1,24 @@
-\# 🧬 PatentRx Intelligence X
+# 🧬 PatentRx Intelligence X
 
-\### Unified Pharmaceutical Patent Intelligence \& Scientific QC Workbench
-
-
-
-!\[Python](https://img.shields.io/badge/Python-3.x-blue)
-
-!\[RDKit](https://img.shields.io/badge/RDKit-Cheminformatics-green)
-
-!\[Patent Informatics](https://img.shields.io/badge/Patent-Informatics-purple)
-
-!\[Scientific QC](https://img.shields.io/badge/Scientific-QC-orange)
-
-!\[Tests](https://img.shields.io/badge/Tests-67%20Passed-brightgreen)
-
-!\[Status](https://img.shields.io/badge/Status-Internal%20QC%20Complete-success)
+### Unified Pharmaceutical Patent Intelligence & Scientific QC Workbench
 
 
 
-\### \*Bridging 16+ Years of Pharmaceutical Patent Expertise with Modern Cheminformatics, Molecular Informatics \& Scientific AI Quality Control\*
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+
+![RDKit](https://img.shields.io/badge/RDKit-Cheminformatics-green)
+
+![Patent Informatics](https://img.shields.io/badge/Patent-Informatics-purple)
+
+![Scientific QC](https://img.shields.io/badge/Scientific-QC-orange)
+
+![Tests](https://img.shields.io/badge/Tests-67%20Passed-brightgreen)
+
+![Status](https://img.shields.io/badge/Status-Internal%20QC%20Complete-success)
+
+
+
+### \*Bridging 16+ Years of Pharmaceutical Patent Expertise with Modern Cheminformatics, Molecular Informatics & Scientific AI Quality Control\*
 
 
 
@@ -34,7 +34,7 @@
 
 
 
-\## 📌 Project Summary
+## 📌 Project Summary
 
 
 
@@ -80,7 +80,7 @@ Five real patent documents provide scientific reference cases, alongside synthet
 
 
 
-\## 🎯 What This Demonstrates
+## 🎯 What This Demonstrates
 
 
 
@@ -114,11 +114,11 @@ Five real patent documents provide scientific reference cases, alongside synthet
 
 
 
-\## 🧪 Five Specialized Scientific Engines
+## 🧪 Five Specialized Scientific Engines
 
 
 
-\### 1. ReactionRx — Organic Reaction Intelligence
+### 1. ReactionRx — Organic Reaction Intelligence
 
 
 
@@ -150,7 +150,7 @@ Five real patent documents provide scientific reference cases, alongside synthet
 
 
 
-\### 2. StereoRx — Stereochemistry Intelligence
+### 2. StereoRx — Stereochemistry Intelligence
 
 
 
@@ -182,7 +182,7 @@ Five real patent documents provide scientific reference cases, alongside synthet
 
 
 
-\### 3. CoordRx — Coordination Chemistry Intelligence
+### 3. CoordRx — Coordination Chemistry Intelligence
 
 
 
@@ -214,7 +214,7 @@ Five real patent documents provide scientific reference cases, alongside synthet
 
 
 
-\### 4. BioRx — Bioactivity \& Patent Evidence Intelligence
+### 4. BioRx — Bioactivity & Patent Evidence Intelligence
 
 
 
@@ -260,7 +260,7 @@ Five real patent documents provide scientific reference cases, alongside synthet
 
 
 
-\### 5. MarkushRx — Patent Structure Intelligence
+### 5. MarkushRx — Patent Structure Intelligence
 
 
 
@@ -302,7 +302,7 @@ Five real patent documents provide scientific reference cases, alongside synthet
 
 \- Substituent-modified and unrelated structures rejected
 
-\- Calculated \[M+H]⁺ approximately 475.154, consistent with the patent's reported nominal m/z 475
+\- Calculated [M+H]⁺ approximately 475.154, consistent with the patent's reported nominal m/z 475
 
 
 
@@ -314,7 +314,7 @@ Five real patent documents provide scientific reference cases, alongside synthet
 
 
 
-\## 🧰 Full Technology Stack
+## 🧰 Full Technology Stack
 
 
 
@@ -352,7 +352,7 @@ Version Control    : Git and GitHub
 
 
 
-\## 📂 Repository Structure
+## 📂 Repository Structure
 
 
 
@@ -470,7 +470,7 @@ PatentRx\_Intelligence\_X\_COMPLETE/
 
 
 
-\## 🔬 Scientific Workflow
+## 🔬 Scientific Workflow
 
 
 
@@ -548,11 +548,11 @@ The engines can also be used independently. The diagram represents their shared 
 
 
 
-\## ⚙️ Installation \& Quick Start
+## ⚙️ Installation & Quick Start
 
 
 
-\### 1. Clone the repository
+### 1. Clone the repository
 
 
 
@@ -570,7 +570,7 @@ cd PatentRx-Intelligence-X
 
 
 
-\### 2. Create a virtual environment
+### 2. Create a virtual environment
 
 
 
@@ -584,7 +584,7 @@ source .venv/Scripts/activate
 
 
 
-\### 3. Install the project
+### 3. Install the project
 
 
 
@@ -596,7 +596,7 @@ python -m pip install -e .
 
 
 
-\### 4. Run automated tests
+### 4. Run automated tests
 
 
 
@@ -608,7 +608,7 @@ python -m pytest -q
 
 
 
-\### 5. Run a scientific QC example
+### 5. Run a scientific QC example
 
 
 
@@ -626,13 +626,13 @@ python -m patentrx.workbench\_cli \\
 
 
 
-\### 6. Launch the optional dashboard
+### 6. Launch the optional dashboard
 
 
 
 ```bash
 
-python -m pip install -e '.\[dashboard]'
+python -m pip install -e '.[dashboard]'
 
 streamlit run app.py
 
@@ -648,7 +648,7 @@ The dashboard provides an optional user interface for interacting with the workb
 
 
 
-\## 📊 Scientific QC \& Validation Results
+## 📊 Scientific QC & Validation Results
 
 
 
@@ -668,7 +668,7 @@ The dashboard provides an optional user interface for interacting with the workb
 
 
 
-\### Integrated Regression Testing
+### Integrated Regression Testing
 
 
 
@@ -702,7 +702,7 @@ These results demonstrate that the tested computational functions behaved as exp
 
 
 
-\## 🧾 Patent Evidence \& Scientific Traceability
+## 🧾 Patent Evidence & Scientific Traceability
 
 
 
@@ -734,7 +734,7 @@ Evidence files are organized by engine to support reproducibility and inspection
 
 
 
-\## 🖥️ Unified Scientific QC Workbench
+## 🖥️ Unified Scientific QC Workbench
 
 
 
@@ -762,7 +762,7 @@ The optional Streamlit application provides a graphical entry point to the platf
 
 
 
-\## ⚠️ Scientific Scope \& Limitations
+## ⚠️ Scientific Scope & Limitations
 
 
 
@@ -802,7 +802,7 @@ All QC statuses are limited to their documented computational acceptance criteri
 
 
 
-\## 🚀 Applications \& Future Scope
+## 🚀 Applications & Future Scope
 
 
 
@@ -840,7 +840,7 @@ These are possible extensions, not claims of implemented functionality.
 
 
 
-\## 👩‍🔬 About the Developer
+## 👩‍🔬 About the Developer
 
 
 
