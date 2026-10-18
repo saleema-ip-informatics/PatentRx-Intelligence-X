@@ -177,7 +177,7 @@ The engines can be used independently. The diagram shows the shared workbench fl
 
 ## Installation and Quick Start
 
-**1. Clone** (access requires permission while the repository is private)
+**1. Clone**
 
 ```bash
 git clone https://github.com/saleema-ip-informatics/PatentRx-Intelligence-X.git
