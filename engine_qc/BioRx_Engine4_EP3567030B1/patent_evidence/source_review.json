@@ -1,0 +1,14 @@
+{
+  "patent": "EP3567030B1",
+  "source_url": "https://patents.google.com/patent/EP3567030B1/en",
+  "pdf_path": null,
+  "pdf_sha256": null,
+  "reviewed_pages": [],
+  "structure_records": [],
+  "assay_records": [],
+  "claim_rules": [],
+  "open_issues": [
+    "Exact patent drawings and compound-to-data mapping require source review"
+  ],
+  "source_review_complete": false
+}

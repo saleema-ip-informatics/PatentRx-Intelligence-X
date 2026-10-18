@@ -1,0 +1,23 @@
+{
+  "case_id": "US20110124909A1-S_PREGABALIN",
+  "title": "S-pregabalin (patent-described target)",
+  "engine": "stereorx",
+  "case_type": "patent_named_structure",
+  "source": {
+    "kind": "patent",
+    "patent_id": "US20110124909A1",
+    "url": "https://patents.google.com/patent/US20110124909A1/en",
+    "reference": "Description and examples: (S)-pregabalin (1)",
+    "structure_transcription_verified": false,
+    "expert_signoff": false
+  },
+  "inputs": {
+    "smiles": "CC(C)C[C@H](CN)CC(=O)O",
+    "compute_3d": false
+  },
+  "qc_expectation": {
+    "cip": "S",
+    "chiral_centers": 1,
+    "scope": "RDKit connectivity/CIP only; no experimental ee inference"
+  }
+}

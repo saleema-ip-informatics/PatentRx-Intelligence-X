@@ -1,0 +1,18 @@
+{
+  "record_id": "DEMO-M1",
+  "source_reference": "synthetic claim example",
+  "allowed_substituents": {
+    "R1": [
+      "H",
+      "Me"
+    ],
+    "R2": [
+      "Cl",
+      "F"
+    ]
+  },
+  "example_substituents": {
+    "R1": "Me",
+    "R2": "F"
+  }
+}

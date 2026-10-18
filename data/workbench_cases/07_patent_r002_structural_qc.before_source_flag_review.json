@@ -1,0 +1,32 @@
+{
+  "case_id": "WO2011103442A2-R002-STRUCTURAL-QC",
+  "title": "Phosphonate 11 synthesis \u2014 R002",
+  "engine": "reactionrx",
+  "case_type": "patent_structural_qc",
+  "source": {
+    "kind": "patent",
+    "patent_id": "WO2011103442A2",
+    "reference": "PDF pages 63\u201364; Figure 2, PDF page 146",
+    "verification": "computational_structural_qc",
+    "expert_signoff": false
+  },
+  "inputs": {
+    "reaction": {
+      "patent_id": "WO2011103442A2",
+      "reaction_id": "R002",
+      "source_reference": "WO2011103442A2, PDF pages 63\u201364",
+      "reactants": [
+        "COc1cc(Br)c(C=O)c(OC)c1"
+      ],
+      "products": [
+        "COc1cc(Br)c(CO)c(OC)c1"
+      ],
+      "yield_percent": 96,
+      "evidence_text": "Patent route reviewed; structural mapping computationally checked. Experimental atom provenance not established.",
+      "qc_status": "structural_mapping_qc_pass",
+      "source_verified": true
+    },
+    "mapped_reactants": "[CH3:1][O:2][c:3]1[cH:4][c:5]([Br:6])[c:7]([CH:12]=[O:13])[c:8]([O:10][CH3:11])[cH:9]1",
+    "mapped_products": "[CH3:1][O:2][c:3]1[cH:4][c:5]([Br:6])[c:7]([CH2:12][OH:13])[c:8]([O:10][CH3:11])[cH:9]1"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "case_id": "WO2011103442A2-R001",
+  "title": "Dalesconol patent \u2014 preliminary reaction transcription",
+  "engine": "reactionrx",
+  "case_type": "unverified_patent_transcription",
+  "source": {
+    "kind": "patent",
+    "patent_id": "WO2011103442A2",
+    "url": "https://patents.google.com/patent/WO2011103442A2/en",
+    "reference": "Example 1, PDF p.63 (independent review required)",
+    "verification": "unverified"
+  },
+  "inputs": {
+    "reaction": {
+      "patent_id": "WO2011103442A2",
+      "reaction_id": "R001",
+      "source_reference": "PDF page 63 (independent review required)",
+      "reactants": [
+        "3,5-dimethoxybromobenzene"
+      ],
+      "products": [],
+      "reagents": [
+        "DMF",
+        "POCl3"
+      ],
+      "temperature_c": 90,
+      "reaction_time_h": 6,
+      "yield_percent": 99,
+      "evidence_text": "Preliminary transcription; product regiochemistry unresolved",
+      "source_verified": false
+    }
+  }
+}

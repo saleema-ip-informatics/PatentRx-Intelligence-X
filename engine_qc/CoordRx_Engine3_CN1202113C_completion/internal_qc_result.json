@@ -1,0 +1,21 @@
+{
+  "engine": "CoordRx",
+  "patent": "CN1202113C",
+  "status": "INTERNAL_QC_PASS",
+  "scope": "existing engine metal detection, explicitly encoded neighbor checks, and project regression",
+  "existing_case_validation": "PASS",
+  "additional_controls": "PASS",
+  "project_regression": "PASS",
+  "reference_examples": 12,
+  "patent_pdf_present": true,
+  "patent_structure_mapping": "NOT_FULLY_VALIDATED",
+  "cis_trans_geometry_prediction": "NOT_SUPPORTED",
+  "ncs_linkage_from_spectra": "PATENT_REPORTED_ONLY",
+  "limitations": [
+    "No structure SMILES assigned to patent examples until full donor-atom and counterion mapping is checked",
+    "Cis/trans labels are patent reported, not inferred from SMILES",
+    "NCS linkage is based on patent spectroscopy interpretation",
+    "Some examples continue across pages and require full source review",
+    "This dataset covers visually reviewed pages 15-20 only"
+  ]
+}

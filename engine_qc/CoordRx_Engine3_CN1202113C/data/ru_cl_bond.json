@@ -1,0 +1,16 @@
+{
+  "case_id": "ru_cl_bond",
+  "engine": "coordrx",
+  "inputs": {
+    "smiles": "[Ru]Cl"
+  },
+  "expected": {
+    "valid": true,
+    "metal_count": 1,
+    "metal_element": "Ru",
+    "first_metal_explicit_neighbor_count": 1,
+    "geometry": "not_determined"
+  },
+  "provenance": "GENERATED_COMPUTATIONAL_CONTROL_NOT_PATENT_EXAMPLE",
+  "note": "synthetic explicit graph-neighbor control; not a patent species"
+}

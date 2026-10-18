@@ -1,0 +1,384 @@
+{
+  "patent": "EP3567030B1",
+  "headings": [
+    {
+      "pdf_page": 37,
+      "example_numbers": [
+        1
+      ],
+      "heading": "40\n\n     Example 1",
+      "text_offset": 2132
+    },
+    {
+      "pdf_page": 41,
+      "example_numbers": [
+        2
+      ],
+      "heading": "25\n     Example 2",
+      "text_offset": 1191
+    },
+    {
+      "pdf_page": 43,
+      "example_numbers": [
+        3
+      ],
+      "heading": "45    Example 3",
+      "text_offset": 1793
+    },
+    {
+      "pdf_page": 44,
+      "example_numbers": [
+        3
+      ],
+      "heading": "Example 3",
+      "text_offset": 1298
+    },
+    {
+      "pdf_page": 45,
+      "example_numbers": [
+        4
+      ],
+      "heading": "20\n     Example 4",
+      "text_offset": 855
+    },
+    {
+      "pdf_page": 46,
+      "example_numbers": [
+        5
+      ],
+      "heading": "Example 5",
+      "text_offset": 1730
+    },
+    {
+      "pdf_page": 47,
+      "example_numbers": [
+        6
+      ],
+      "heading": "20\n     Example 6",
+      "text_offset": 950
+    },
+    {
+      "pdf_page": 48,
+      "example_numbers": [
+        7
+      ],
+      "heading": "40   Example 7",
+      "text_offset": 1333
+    },
+    {
+      "pdf_page": 50,
+      "example_numbers": [
+        8
+      ],
+      "heading": "40\n     Example 8",
+      "text_offset": 1360
+    },
+    {
+      "pdf_page": 52,
+      "example_numbers": [
+        9
+      ],
+      "heading": "40\n     Example 9",
+      "text_offset": 1400
+    },
+    {
+      "pdf_page": 53,
+      "example_numbers": [
+        10
+      ],
+      "heading": "55   Example 10",
+      "text_offset": 1826
+    },
+    {
+      "pdf_page": 55,
+      "example_numbers": [
+        11
+      ],
+      "heading": "Example 11",
+      "text_offset": 843
+    },
+    {
+      "pdf_page": 57,
+      "example_numbers": [
+        12
+      ],
+      "heading": "Example 12",
+      "text_offset": 104
+    },
+    {
+      "pdf_page": 58,
+      "example_numbers": [
+        13
+      ],
+      "heading": "Example 13",
+      "text_offset": 2365
+    },
+    {
+      "pdf_page": 60,
+      "example_numbers": [
+        14
+      ],
+      "heading": "Example 14",
+      "text_offset": 1277
+    },
+    {
+      "pdf_page": 61,
+      "example_numbers": [
+        15
+      ],
+      "heading": "Example 15",
+      "text_offset": 1366
+    },
+    {
+      "pdf_page": 62,
+      "example_numbers": [
+        16
+      ],
+      "heading": "30\n     Example 16",
+      "text_offset": 1003
+    },
+    {
+      "pdf_page": 64,
+      "example_numbers": [
+        17
+      ],
+      "heading": "Example 17",
+      "text_offset": 49
+    },
+    {
+      "pdf_page": 66,
+      "example_numbers": [
+        18
+      ],
+      "heading": "5\n     Example 18 (not according to the invention)",
+      "text_offset": 469
+    },
+    {
+      "pdf_page": 67,
+      "example_numbers": [
+        19
+      ],
+      "heading": "20   Example 19",
+      "text_offset": 637
+    },
+    {
+      "pdf_page": 68,
+      "example_numbers": [
+        20
+      ],
+      "heading": "Example 20",
+      "text_offset": 1607
+    },
+    {
+      "pdf_page": 71,
+      "example_numbers": [
+        21
+      ],
+      "heading": "5\n     Example 21",
+      "text_offset": 449
+    },
+    {
+      "pdf_page": 73,
+      "example_numbers": [
+        22
+      ],
+      "heading": "Example 22",
+      "text_offset": 967
+    },
+    {
+      "pdf_page": 75,
+      "example_numbers": [
+        23
+      ],
+      "heading": "20\n     Example 23 (not accord inn to the present invention)",
+      "text_offset": 822
+    },
+    {
+      "pdf_page": 76,
+      "example_numbers": [
+        24
+      ],
+      "heading": "Example 24",
+      "text_offset": 49
+    },
+    {
+      "pdf_page": 77,
+      "example_numbers": [
+        25
+      ],
+      "heading": "Example 25",
+      "text_offset": 709
+    },
+    {
+      "pdf_page": 77,
+      "example_numbers": [
+        26
+      ],
+      "heading": "Example 26",
+      "text_offset": 1439
+    },
+    {
+      "pdf_page": 78,
+      "example_numbers": [
+        27
+      ],
+      "heading": "Example 27",
+      "text_offset": 728
+    },
+    {
+      "pdf_page": 79,
+      "example_numbers": [
+        28
+      ],
+      "heading": "Example 28",
+      "text_offset": 1209
+    },
+    {
+      "pdf_page": 81,
+      "example_numbers": [
+        29
+      ],
+      "heading": "5    Example 29",
+      "text_offset": 330
+    },
+    {
+      "pdf_page": 81,
+      "example_numbers": [
+        30
+      ],
+      "heading": "Example 30",
+      "text_offset": 1257
+    },
+    {
+      "pdf_page": 82,
+      "example_numbers": [
+        31
+      ],
+      "heading": "Example 31",
+      "text_offset": 49
+    },
+    {
+      "pdf_page": 82,
+      "example_numbers": [
+        32
+      ],
+      "heading": "Example 32",
+      "text_offset": 1060
+    },
+    {
+      "pdf_page": 82,
+      "example_numbers": [
+        33
+      ],
+      "heading": "Example 33",
+      "text_offset": 1724
+    },
+    {
+      "pdf_page": 84,
+      "example_numbers": [
+        34
+      ],
+      "heading": "Example 34",
+      "text_offset": 49
+    },
+    {
+      "pdf_page": 84,
+      "example_numbers": [
+        35
+      ],
+      "heading": "25\n     Example 35",
+      "text_offset": 850
+    },
+    {
+      "pdf_page": 85,
+      "example_numbers": [
+        36
+      ],
+      "heading": "25\n     Example 36",
+      "text_offset": 1170
+    },
+    {
+      "pdf_page": 86,
+      "example_numbers": [
+        37,
+        38
+      ],
+      "heading": "Examples 37,38",
+      "text_offset": 1402
+    },
+    {
+      "pdf_page": 88,
+      "example_numbers": [
+        39,
+        40
+      ],
+      "heading": "Examples 39, 40",
+      "text_offset": 1186
+    },
+    {
+      "pdf_page": 90,
+      "example_numbers": [
+        41,
+        42
+      ],
+      "heading": "10   Examples 41, 42",
+      "text_offset": 840
+    },
+    {
+      "pdf_page": 92,
+      "example_numbers": [
+        43
+      ],
+      "heading": "Example 43",
+      "text_offset": 1198
+    },
+    {
+      "pdf_page": 93,
+      "example_numbers": [
+        44
+      ],
+      "heading": "15   Example 44",
+      "text_offset": 390
+    },
+    {
+      "pdf_page": 94,
+      "example_numbers": [
+        45
+      ],
+      "heading": "Example 45",
+      "text_offset": 93
+    },
+    {
+      "pdf_page": 95,
+      "example_numbers": [
+        46
+      ],
+      "heading": "Example 46",
+      "text_offset": 815
+    },
+    {
+      "pdf_page": 96,
+      "example_numbers": [
+        47
+      ],
+      "heading": "Example 47",
+      "text_offset": 1037
+    },
+    {
+      "pdf_page": 97,
+      "example_numbers": [
+        48
+      ],
+      "heading": "Example 48",
+      "text_offset": 1294
+    },
+    {
+      "pdf_page": 99,
+      "example_numbers": [
+        49
+      ],
+      "heading": "Example 49",
+      "text_offset": 253
+    }
+  ]
+}

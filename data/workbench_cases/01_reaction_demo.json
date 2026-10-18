@@ -1,0 +1,31 @@
+{
+  "case_id": "DEMO-REACTION-001",
+  "title": "Organic synthesis \u2014 reaction metadata and atom-map QC",
+  "engine": "reactionrx",
+  "case_type": "synthetic_demonstration",
+  "source": {
+    "kind": "synthetic",
+    "reference": "Teaching-only transformation; not extracted from patent"
+  },
+  "inputs": {
+    "reaction": {
+      "patent_id": "DEMO",
+      "reaction_id": "R001",
+      "source_reference": "Synthetic example",
+      "reactants": [
+        "CCO"
+      ],
+      "products": [
+        "CC=O"
+      ],
+      "reagents": [
+        "illustrative oxidant"
+      ],
+      "yield_percent": 83,
+      "evidence_text": "Synthetic teaching example; no experimental source",
+      "source_verified": false
+    },
+    "mapped_reactants": "[CH3:1][CH2:2][OH:3]",
+    "mapped_products": "[CH3:1][CH:2]=[O:3]"
+  }
+}

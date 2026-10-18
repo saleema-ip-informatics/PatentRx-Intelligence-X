@@ -1,0 +1,42 @@
+{
+  "patent": "US7569577B2",
+  "source": {
+    "example": 35,
+    "example_pdf_page": 54,
+    "claim": 2,
+    "claims_pdf_page": 55
+  },
+  "scope": "Exact parent structure identity only; excludes salt, ester and legal claim-scope assessment",
+  "controls": [
+    {
+      "id": "claim2_parent_S",
+      "smiles": "COc1cc2ncnc(Nc3cccc(Cl)c3F)c2cc1OC1CCN(C(=O)[C@H](C)O)CC1",
+      "expected_exact_parent_match": true,
+      "expected_cip": "S"
+    },
+    {
+      "id": "opposite_R",
+      "smiles": "COc1cc2ncnc(Nc3cccc(Cl)c3F)c2cc1OC1CCN(C(=O)[C@@H](C)O)CC1",
+      "expected_exact_parent_match": false,
+      "expected_cip": "R"
+    },
+    {
+      "id": "stereo_unspecified",
+      "smiles": "COc1cc2ncnc(Nc3cccc(Cl)c3F)c2cc1OC1CCN(C(=O)C(C)O)CC1",
+      "expected_exact_parent_match": false,
+      "expected_cip": "?"
+    },
+    {
+      "id": "chloro_to_bromo",
+      "smiles": "COc1cc2ncnc(Nc3cccc(Br)c3F)c2cc1OC1CCN(C(=O)[C@H](C)O)CC1",
+      "expected_exact_parent_match": false,
+      "expected_cip": "S"
+    },
+    {
+      "id": "unrelated_quinazoline",
+      "smiles": "c1ccc2ncncc2c1",
+      "expected_exact_parent_match": false,
+      "expected_cip": null
+    }
+  ]
+}

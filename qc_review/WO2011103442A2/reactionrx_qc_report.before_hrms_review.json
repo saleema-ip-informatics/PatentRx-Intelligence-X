@@ -1,0 +1,42 @@
+{
+  "patent_id": "WO2011103442A2",
+  "case_id": "PHOSPHONATE_11",
+  "review_date": "2026-10-18",
+  "source": {
+    "experimental_pages": [
+      "PDF 63",
+      "PDF 64"
+    ],
+    "structure_page": "PDF 146, Figure 2"
+  },
+  "compound_10": {
+    "smiles": "COc1cc(Br)cc(OC)c1",
+    "formula": "C8H9BrO2",
+    "structure_validation": "RDKit valid"
+  },
+  "compound_11": {
+    "smiles": "COc1cc(OC)c(CP(=O)(OCC)OCC)c(Br)c1",
+    "formula": "C13H20BrO5P",
+    "structure_validation": "RDKit valid",
+    "aromatic_core_consistency": "PASS"
+  },
+  "qc_findings": [
+    "Patent experimental conditions transcribed and visually checked",
+    "Compound 11 connectivity compared with Figure 2",
+    "Aromatic core consistency confirmed by RDKit",
+    "Individual reaction intermediate mapping remains pending",
+    "HRMS exact-mass interpretation requires reconciliation"
+  ],
+  "review_status": "STRUCTURE_SOURCE_SUPPORTED_ROUTE_QC_PENDING",
+  "expert_signoff": false,
+  "hrms_review": {
+    "ion": "[M+H]+",
+    "calculated_mz_rdkit": 367.030449,
+    "calculated_mz_patent": 367.031,
+    "observed_mz_patent": 367.0319,
+    "calculated_difference_ppm": -1.5,
+    "observed_vs_rdkit_ppm": 3.95,
+    "status": "SMALL_DISCREPANCY_REQUIRES_REVIEW",
+    "note": "Verify patent ion formula, isotope convention and reported analytical values."
+  }
+}

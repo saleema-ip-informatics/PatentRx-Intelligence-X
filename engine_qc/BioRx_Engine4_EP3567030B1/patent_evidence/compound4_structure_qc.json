@@ -1,0 +1,24 @@
+{
+  "patent": "EP3567030B1",
+  "compound": 4,
+  "assay_identity": "Formate of compound 4",
+  "canonical_parent_smiles": "COc1cc2ncnc(Nc3cccc(Cl)c3OC)c2cc1N1CC2(CCN(C)CC2)OC1=O",
+  "formula": "C24H26ClN5O4",
+  "calculated_mh_mz": 484.175,
+  "patent_mh_mz": 484.1,
+  "nmr_methyl_signal": "2.73 ppm (s, 3H)",
+  "synthesis_evidence": {
+    "page": 41,
+    "paragraph": "0145",
+    "reagents": [
+      "polyformaldehyde",
+      "NaBH3CN"
+    ],
+    "reaction": "reductive N-methylation"
+  },
+  "compound4_evidence": {
+    "page": 46
+  },
+  "status": "INTERNAL_QC_SUPPORTED_CANDIDATE",
+  "limitation": "Patent structure drawing not independently matched"
+}

@@ -1,0 +1,36 @@
+{
+  "case_id": "DEMO-MARKUSH-001",
+  "title": "Finite Markush enumeration and structure matching",
+  "engine": "markushrx",
+  "case_type": "synthetic_demonstration",
+  "source": {
+    "kind": "synthetic",
+    "reference": "Synthetic finite enumeration; NOT full patent claim scope"
+  },
+  "inputs": {
+    "markush_record": {
+      "record_id": "M-001",
+      "source_reference": "Synthetic illustration",
+      "allowed_substituents": {
+        "R1": [
+          "Me",
+          "Et"
+        ],
+        "R2": [
+          "F",
+          "Cl"
+        ]
+      },
+      "example_substituents": {
+        "R1": "Me",
+        "R2": "F"
+      }
+    },
+    "example_smiles": "CCO",
+    "enumerated_smiles": [
+      "CO",
+      "CCO",
+      "CCN"
+    ]
+  }
+}

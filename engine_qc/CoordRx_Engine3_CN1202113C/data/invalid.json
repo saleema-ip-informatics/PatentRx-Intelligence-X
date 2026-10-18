@@ -1,0 +1,16 @@
+{
+  "case_id": "invalid",
+  "engine": "coordrx",
+  "inputs": {
+    "smiles": "not_a_smiles"
+  },
+  "expected": {
+    "valid": false,
+    "metal_count": null,
+    "metal_element": null,
+    "first_metal_explicit_neighbor_count": null,
+    "geometry": null
+  },
+  "provenance": "GENERATED_COMPUTATIONAL_CONTROL_NOT_PATENT_EXAMPLE",
+  "note": "invalid SMILES control"
+}

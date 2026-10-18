@@ -1,0 +1,21 @@
+{
+  "engine": "BioRx",
+  "patent": "EP3567030B1",
+  "created_utc": "2026-10-18T10:52:30.594782+00:00",
+  "qc_scope": "EGFR patent assay computational validation",
+  "status": "COMPUTATIONAL_QC_PASS_SOURCE_REVIEW_PENDING",
+  "patent_compounds": 34,
+  "assay_cells": 170,
+  "exact_measurements": 60,
+  "censored_measurements": 2,
+  "not_tested": 107,
+  "blank": 1,
+  "egfr_regression_tests_passed": 11,
+  "combined_regression_tests_passed": 85,
+  "limitations": [
+    "Compound-to-chemical-structure mapping remains unverified",
+    "Patent-specific structural identity QC remains pending",
+    "Biochemical and cellular endpoints are not interchangeable",
+    "No binding affinity or clinical efficacy inference"
+  ]
+}

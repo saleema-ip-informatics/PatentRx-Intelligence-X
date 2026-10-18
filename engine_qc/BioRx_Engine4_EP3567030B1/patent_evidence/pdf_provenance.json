@@ -1,0 +1,16 @@
+{
+  "patent": "EP3567030B1",
+  "pdf": "EP3567030B1.pdf",
+  "pages": 140,
+  "size_bytes": 2147945,
+  "sha256": "a8e37da4d98862dcac499c2fe49c6fb6367c5699e740b12ab74c2144c7ca94b7",
+  "assay_table_pdf_pages": [
+    101,
+    102
+  ],
+  "compound_4_synthesis_pdf_pages": [
+    45,
+    46
+  ],
+  "verification": "LOCAL_PDF_FINGERPRINT_CONFIRMED"
+}

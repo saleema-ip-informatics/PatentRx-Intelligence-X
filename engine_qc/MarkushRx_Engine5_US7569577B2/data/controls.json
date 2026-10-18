@@ -1,0 +1,21 @@
+{
+  "provenance": "COMPUTATIONAL_CONTROLS_NOT_PATENT_CLAIM_VERDICTS",
+  "structures": [
+    {
+      "id": "quinazoline_core",
+      "smiles": "c1ccc2ncncc2c1",
+      "expected_has_core": true
+    },
+    {
+      "id": "benzene",
+      "smiles": "c1ccccc1",
+      "expected_has_core": false
+    },
+    {
+      "id": "invalid",
+      "smiles": "not_a_smiles",
+      "expected_valid": false
+    }
+  ],
+  "warning": "Scaffold membership does not establish patent Formula I claim coverage; substituent rules and legal scope require bounded transcription."
+}

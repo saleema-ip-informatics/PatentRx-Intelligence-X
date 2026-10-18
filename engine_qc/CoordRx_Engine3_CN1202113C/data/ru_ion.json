@@ -1,0 +1,16 @@
+{
+  "case_id": "ru_ion",
+  "engine": "coordrx",
+  "inputs": {
+    "smiles": "[Ru+2]"
+  },
+  "expected": {
+    "valid": true,
+    "metal_count": 1,
+    "metal_element": "Ru",
+    "first_metal_explicit_neighbor_count": 0,
+    "geometry": "not_determined"
+  },
+  "provenance": "GENERATED_COMPUTATIONAL_CONTROL_NOT_PATENT_EXAMPLE",
+  "note": "isolated ion control"
+}

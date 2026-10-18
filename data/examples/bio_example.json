@@ -1,0 +1,7 @@
+{
+  "record_id": "DEMO-B1",
+  "protein_id": "EGFR",
+  "ligand_id": "DEMO-L1",
+  "source_reference": "synthetic demonstration",
+  "binding_claim": true
+}

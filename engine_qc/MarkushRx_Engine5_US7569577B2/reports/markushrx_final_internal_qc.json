@@ -1,0 +1,42 @@
+{
+  "engine": "MarkushRx",
+  "patent": "US7569577B2",
+  "status": "INTERNAL_QC_PASS",
+  "completed_utc": "2026-10-18T11:26:28.288574+00:00",
+  "source_pdf_sha256": "1289685f6de9c04e82670a3bfbfd1e73df16bf06a1cb1fc1ba82f82759859020",
+  "patent_evidence": {
+    "example_35_pdf_page": 54,
+    "claims_pdf_page": 55,
+    "example_35_yield_percent": 43,
+    "example_35_ms_m_plus_h_nominal": 475
+  },
+  "scope": "Exact stereospecific parent-structure identity against Example 35 and Claim 2",
+  "limitations": [
+    "Not a full generic Markush enumeration or legal claim interpretation",
+    "Salt and ester coverage not assessed",
+    "Patent structural assignment based on extracted name, synthesis and mass consistency"
+  ],
+  "structural_controls": [
+    {
+      "id": "claim2_parent_S",
+      "passed": true
+    },
+    {
+      "id": "opposite_R",
+      "passed": true
+    },
+    {
+      "id": "stereo_unspecified",
+      "passed": true
+    },
+    {
+      "id": "chloro_to_bromo",
+      "passed": true
+    },
+    {
+      "id": "unrelated_quinazoline",
+      "passed": true
+    }
+  ],
+  "structural_controls_passed": 5
+}

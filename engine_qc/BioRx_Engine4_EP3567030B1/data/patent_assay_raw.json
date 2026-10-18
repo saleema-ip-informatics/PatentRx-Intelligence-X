@@ -1,0 +1,316 @@
+{
+  "patent": "EP3567030B1",
+  "source_pdf_pages": [
+    101,
+    102
+  ],
+  "units": "nM",
+  "tables": [
+    {
+      "pdf_page": 101,
+      "rows": [
+        [
+          "Compounds",
+          "Wild-type\nEGFR\nenzyme IC\n50\n(nM)",
+          "EGFR exon 19\ndeletion enzyme\nIC (nM)\n50",
+          "EGFR\nL858R\nenzyme IC\n50 (nM)",
+          "Anti-PC-9(Δ19del) cell\nproliferative activity IC\n(nM)\n50",
+          "Anti-A431 cell\nproliferative\nactivity IC (nM)\n50"
+        ],
+        [
+          "Formate of\ncompound 2",
+          "-",
+          "16.5",
+          "48.1",
+          "165",
+          "-"
+        ],
+        [
+          "Formate of\ncompound 3",
+          "-",
+          "0.02",
+          "0.1",
+          "3",
+          "96"
+        ],
+        [
+          "Formate of\ncompound 4",
+          "",
+          "55.4",
+          "30.1",
+          "396",
+          "-"
+        ],
+        [
+          "Formate of\ncompound 5",
+          "-",
+          "-",
+          "-",
+          "2.725",
+          "-"
+        ],
+        [
+          "Formate of\ncompound 6",
+          "<0.015",
+          "0.070",
+          "-",
+          "4.900",
+          "-"
+        ],
+        [
+          "Formate of\ncompound 10",
+          "-",
+          "-",
+          "-",
+          "6.012",
+          "73.0"
+        ],
+        [
+          "Formate of\ncompound 12",
+          "0.017",
+          "0.085",
+          "-",
+          "9.113",
+          "46.0"
+        ],
+        [
+          "Formate of\ncompound 13",
+          "0.016",
+          "0.052",
+          "-",
+          "5.340",
+          "-"
+        ],
+        [
+          "Formate of\ncompound 15",
+          "-",
+          "-",
+          "-",
+          "23.020",
+          "-"
+        ],
+        [
+          "Compound 16",
+          "-",
+          "-",
+          "-",
+          "539.587",
+          "-"
+        ],
+        [
+          "Formate of\ncompound 17",
+          "-",
+          "-",
+          "-",
+          "29.385",
+          "-"
+        ],
+        [
+          "Compound 18",
+          "<0.015",
+          "0.050",
+          "-",
+          "12.534",
+          "59.0"
+        ],
+        [
+          "Formate of\ncompound 19",
+          "-",
+          "-",
+          "-",
+          "1280.181",
+          "-"
+        ],
+        [
+          "Formate of\ncompound 20",
+          "-",
+          "-",
+          "-",
+          "2.166",
+          "-"
+        ],
+        [
+          "Formate of\ncompound 21",
+          "-",
+          "-",
+          "-",
+          "2.961",
+          "-"
+        ],
+        [
+          "Formate of\ncompound 22",
+          "-",
+          "-",
+          "-",
+          "41.401",
+          "-"
+        ],
+        [
+          "Compound 23",
+          "0.038",
+          "0.170",
+          "-",
+          "23.961",
+          "-"
+        ],
+        [
+          "Formate of\ncompound 24",
+          "-",
+          "-",
+          "-",
+          "7.534",
+          "-"
+        ],
+        [
+          "Compound 25",
+          "0.022",
+          "0.069",
+          "-",
+          "6.756",
+          "64.0"
+        ],
+        [
+          "Compound 26",
+          "-",
+          "-",
+          "-",
+          "7.202",
+          "98.0"
+        ],
+        [
+          "Compound 27",
+          "-",
+          "-",
+          "-",
+          "84.027",
+          "-"
+        ],
+        [
+          "Formate of\ncompound 28",
+          "-",
+          "-",
+          "-",
+          "249.975",
+          "-"
+        ],
+        [
+          "Compound 29",
+          "-",
+          "-",
+          "-",
+          "14.662",
+          "-"
+        ],
+        [
+          "Hydrochloride of\ncompound 30",
+          "0.021",
+          "0.052",
+          "-",
+          "11.177",
+          "71.0"
+        ]
+      ]
+    },
+    {
+      "pdf_page": 102,
+      "rows": [
+        [
+          "Compounds",
+          "Wild-type\nEGFR\nenzyme IC\n50\n(nM)",
+          "EGFR exon 19\ndeletion enzyme\nIC (nM)\n50",
+          "EGFR\nL858R\nenzyme IC\n50 (nM)",
+          "Anti-PC-9(Δ19del) cell\nproliferative activity IC\n(nM)\n50",
+          "Anti-A431 cell\nproliferative\nactivity IC (nM)\n50"
+        ],
+        [
+          "Hydrochloride of\ncompound 31",
+          "-",
+          "-",
+          "-",
+          "15.279",
+          "-"
+        ],
+        [
+          "Formate of\ncompound 33",
+          "0.114",
+          "0.290",
+          "-",
+          "-",
+          "-"
+        ],
+        [
+          "Compound 37",
+          "-",
+          "-",
+          "-",
+          "21.2",
+          "-"
+        ],
+        [
+          "Compound 38",
+          "-",
+          "-",
+          "-",
+          "24.9",
+          "-"
+        ],
+        [
+          "Compound 39",
+          "-",
+          "-",
+          "-",
+          "16.8",
+          "-"
+        ],
+        [
+          "Compound 41",
+          "-",
+          "-",
+          "-",
+          "5.74",
+          "-"
+        ],
+        [
+          "Compound 45",
+          "-",
+          "-",
+          "-",
+          "8.86",
+          "-"
+        ],
+        [
+          "Formate of\ncompound 46",
+          "-",
+          "-",
+          "-",
+          "29.8",
+          "-"
+        ],
+        [
+          "Formate of\ncompound 48",
+          "-",
+          "-",
+          "-",
+          "8.55",
+          "-"
+        ],
+        [
+          "Compound 49",
+          "-",
+          "-",
+          "-",
+          "4.20",
+          "-"
+        ],
+        [
+          "Note: \"-\" means not tested",
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      ]
+    }
+  ]
+}

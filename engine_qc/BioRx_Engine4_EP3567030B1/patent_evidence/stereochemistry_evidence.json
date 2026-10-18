@@ -1,0 +1,62 @@
+{
+  "patent": "EP3567030B1",
+  "evidence": [
+    {
+      "compounds": [
+        37,
+        38
+      ],
+      "pdf_pages": [
+        87,
+        88
+      ],
+      "paragraphs": [
+        "0317",
+        "0318",
+        "0319",
+        "0320"
+      ],
+      "precursor": "37D",
+      "separation": "chiral SFC",
+      "compound_37_ee_percent": 100,
+      "compound_38_ee_percent": 95.98,
+      "compound_37_retention_min": 1.142,
+      "compound_38_retention_min": 1.209,
+      "lcms_mz": 444.3,
+      "absolute_configuration": "NOT_ASSIGNED"
+    },
+    {
+      "compounds": [
+        39
+      ],
+      "pdf_page": 89,
+      "paragraphs": [
+        "0327",
+        "0328"
+      ],
+      "precursor": "39F",
+      "separation": "SFC",
+      "absolute_configuration": "NOT_ASSIGNED"
+    },
+    {
+      "compounds": [
+        41
+      ],
+      "pdf_pages": [
+        91,
+        92
+      ],
+      "paragraphs": [
+        "0339",
+        "0340"
+      ],
+      "precursor": "41H",
+      "separation": "SFC",
+      "ee_percent": 100,
+      "retention_min": 2.368,
+      "absolute_configuration": "NOT_ASSIGNED",
+      "nmr_text_extraction_warning": "Possible erroneous 16H integration"
+    }
+  ],
+  "interpretation": "Chromatographic separation does not independently establish absolute stereochemistry."
+}

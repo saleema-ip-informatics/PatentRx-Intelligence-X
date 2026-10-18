@@ -1,0 +1,10 @@
+{
+  "evidence_id": "DEMO-E1",
+  "engine": "reactionrx",
+  "source_id": "DEMO-ONLY",
+  "source_reference": "synthetic demonstration",
+  "claim": "Ethanol can be oxidized to acetaldehyde",
+  "evidence_text": "Synthetic illustration, not an experimental observation",
+  "review_status": "pending_review",
+  "source_kind": "synthetic"
+}

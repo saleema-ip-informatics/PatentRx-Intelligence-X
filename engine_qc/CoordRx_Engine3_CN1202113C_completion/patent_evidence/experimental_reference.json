@@ -1,0 +1,20 @@
+{
+  "patent": "CN1202113C",
+  "evidence_type": "manual_visual_transcription_of_user_supplied_patent_page_images",
+  "validation_scope": "patent-reported observations, not independently measured or geometry-predicted",
+  "examples": [
+    {"example": 1, "pdf_page": 15, "reported_identity": "cis-Ru(bpy)2Cl2", "yield_percent": 95, "uv_vis_nm": [570], "uv_solvent": "DMF", "notes": "Example starts on previous page; confirm full isolation description before treating identity as fully transcribed"},
+    {"example": 2, "pdf_page": 15, "reported_identity": "cis-Ru(4,4'-dimethoxy-bpy)2(NCS)2", "yield_percent": 92, "uv_vis_nm": [520], "uv_solvent": "DMF"},
+    {"example": 3, "pdf_page": 16, "reported_identity": "cis-Ru(4,4'-hydroxymethyl-bpy)2(NCS)2", "yield_percent": 95, "uv_vis_nm": [509], "uv_solvent": "DMF"},
+    {"example": 4, "pdf_page": 16, "reported_identity": "cis-Ru(4,4'-dinitro-bpy)2(NCS)2", "yield_percent": 82, "uv_vis_nm": [610], "uv_solvent": "ethanol"},
+    {"example": 5, "pdf_page": 17, "reported_identity": "cis-Ru(4,4'-dicarboxylate-bpy)2(NCS)2 sodium salt", "yield_percent": 92, "uv_vis_nm": [530], "uv_solvent": "ethanol"},
+    {"example": 6, "pdf_page": 17, "reported_identity": "cis-Ru(4,4'-dcbpy)2(NCS)2", "yield_percent": 85, "uv_vis_nm": [545], "uv_solvent": "ethanol", "reported_ftir_cm_minus_1": [2125, 2093, 770], "reported_linkage_interpretation": "N-coordinated thiocyanate"},
+    {"example": 7, "pdf_page": 18, "reported_identity": "Ru(3,3'-dcbpy)2(NCS)2", "yield_percent": null, "uv_vis_nm": [572], "uv_solvent": "DMF"},
+    {"example": 8, "pdf_page": 18, "reported_identity": "cis-Ru(5,5'-dcbpy)2(NCS)2", "yield_percent": null, "uv_vis_nm": [585], "uv_solvent": "DMF"},
+    {"example": 9, "pdf_page": 19, "reported_identity": "trans-Ru(bpy)2Cl2", "yield_percent": null, "uv_vis_nm": [590], "uv_solvent": "acetone"},
+    {"example": 10, "pdf_page": 19, "reported_identity": "trans-Ru(4,4'-diamino-bpy)2(NCS)2", "yield_percent": 86, "uv_vis_nm": [550], "uv_solvent": "ethanol", "source_discrepancy": "printed elemental-analysis formula appears to contain Cl2 despite NCS2 in heading; do not use formula as validated reference"},
+    {"example": 11, "pdf_page": 20, "reported_identity": "trans-Ru(4,4'-dicarboxylate-bpy)2(NCS)2 potassium salt", "yield_percent": null, "uv_vis_nm": [524,576], "uv_solvent": "acetone"},
+    {"example": 12, "pdf_page": 20, "reported_identity": "trans-Ru(4,4'-dcbpy)2(NCS)2", "yield_percent": 70, "uv_vis_nm": [530,590], "uv_solvent": "acetone"}
+  ],
+  "limitations": ["No structure SMILES assigned to patent examples until full donor-atom and counterion mapping is checked", "Cis/trans labels are patent reported, not inferred from SMILES", "NCS linkage is based on patent spectroscopy interpretation", "Some examples continue across pages and require full source review", "This dataset covers visually reviewed pages 15-20 only"]
+}

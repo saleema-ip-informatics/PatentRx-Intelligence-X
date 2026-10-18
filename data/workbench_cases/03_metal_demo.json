@@ -1,0 +1,13 @@
+{
+  "case_id": "DEMO-METAL-001",
+  "title": "Coordination representation and metal-bond inventory",
+  "engine": "coordrx",
+  "case_type": "synthetic_demonstration",
+  "source": {
+    "kind": "synthetic",
+    "reference": "Simple coordination representation, not experimental geometry"
+  },
+  "inputs": {
+    "smiles": "[NH3]->[Pt+2]<-[NH3]"
+  }
+}

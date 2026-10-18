@@ -1,0 +1,19 @@
+{
+  "case_id": "DEMO-BIO-001",
+  "title": "Biopharma evidence QC \u2014 unsupported binding claim",
+  "engine": "biorx",
+  "case_type": "synthetic_demonstration",
+  "source": {
+    "kind": "synthetic",
+    "reference": "Deliberately incomplete teaching record"
+  },
+  "inputs": {
+    "binding_record": {
+      "record_id": "BIO-001",
+      "protein_id": "EGFR",
+      "ligand_id": "DEMO-LIG",
+      "source_reference": "Synthetic illustration",
+      "binding_claim": true
+    }
+  }
+}

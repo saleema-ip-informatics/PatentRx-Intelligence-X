@@ -1,0 +1,16 @@
+{
+  "case_id": "bipyridine",
+  "engine": "coordrx",
+  "inputs": {
+    "smiles": "n1ccccc1-c1ccccn1"
+  },
+  "expected": {
+    "valid": true,
+    "metal_count": 0,
+    "metal_element": null,
+    "first_metal_explicit_neighbor_count": null,
+    "geometry": "not_determined"
+  },
+  "provenance": "GENERATED_COMPUTATIONAL_CONTROL_NOT_PATENT_EXAMPLE",
+  "note": "ligand-only control"
+}

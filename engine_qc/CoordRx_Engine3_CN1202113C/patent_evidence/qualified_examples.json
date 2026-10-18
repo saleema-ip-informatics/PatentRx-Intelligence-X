@@ -1,0 +1,16 @@
+{
+  "patent": "CN1202113C",
+  "source_pdf": "patent_evidence/CN1202113C.pdf",
+  "review_state": "PENDING_ORIGINAL_DRAWING_AND_CHINESE_TEXT_REVIEW",
+  "qualified_compounds": [],
+  "review_requirements": [
+    "exact figure/example/claim location",
+    "original Chinese formula or drawing",
+    "ligand identities and donor atoms",
+    "coordination vs disconnected salt representation",
+    "counterions and net charge",
+    "N-bound vs S-bound pseudohalide if evidenced",
+    "cis/trans or other geometry only if explicitly supported",
+    "unresolved ambiguities"
+  ]
+}

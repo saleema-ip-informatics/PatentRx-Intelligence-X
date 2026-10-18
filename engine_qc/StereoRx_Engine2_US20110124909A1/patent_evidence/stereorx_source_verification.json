@@ -1,0 +1,44 @@
+{
+  "patent": "US20110124909A1",
+  "compound": "(S)-pregabalin (1)",
+  "pdf_page_structure": 2,
+  "structure_paragraph": "0003",
+  "smiles": "CC(C)C[C@H](CN)CC(=O)O",
+  "formula": "C8H17NO2",
+  "molecular_weight": 159.229,
+  "cip": "S",
+  "structure_review": "PATENT_DRAWING_CONSISTENT_WITH_RDKIT",
+  "experimental_evidence": [
+    {
+      "paragraph": "0123",
+      "s_isomer_percent": 100,
+      "chemical_purity_percent": 99.92
+    },
+    {
+      "paragraph": "0124",
+      "s_isomer_percent": 100,
+      "chemical_purity_percent": 99.98
+    },
+    {
+      "paragraph": "0128",
+      "s_isomer_percent": 100,
+      "chemical_purity_percent": 99.96
+    },
+    {
+      "paragraph": "0129",
+      "s_isomer_percent": 100,
+      "chemical_purity_percent": 99.98
+    }
+  ],
+  "measurement_method": "Patent-reported chiral HPLC",
+  "generated_controls": [
+    "R-pregabalin",
+    "Unspecified pregabalin"
+  ],
+  "limitations": [
+    "Patent-reported purity is not independently reproduced",
+    "100% reported S-isomer does not establish zero detectable R-isomer",
+    "Computational controls are not patent experimental observations"
+  ],
+  "expert_signoff": false
+}

@@ -1,0 +1,17 @@
+{
+  "engine": "stereorx",
+  "patent": "US20110124909A1",
+  "source_url": "https://patents.google.com/patent/US20110124909A1/en",
+  "status": "PRELIMINARY_INTEGRATION_PACKAGE_NOT_PROJECT_VALIDATED",
+  "patent_claims": {
+    "S_pregabalin_named": true,
+    "reported_example_enantiomeric_purity": "100% S-isomer by chiral HPLC in an example; this does not establish purity of the SMILES record"
+  },
+  "limitations": [
+    "No access to user local project files; integration runner requires project environment",
+    "No PDF page-image comparison of exact stereochemical structures",
+    "Generated R and unspecified controls are not patent experimental observations",
+    "No independent expert signoff",
+    "3D stereochemical verification not yet performed"
+  ]
+}

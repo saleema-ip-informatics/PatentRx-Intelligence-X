@@ -1,0 +1,33 @@
+{
+  "engine": "biorx",
+  "patent": "EP3567030B1",
+  "status": "COMPUTATIONAL_QC_PASS_SOURCE_REVIEW_PENDING",
+  "checks": {
+    "scientific_controls": {
+      "exit_code": 0,
+      "passed": true
+    },
+    "engine_import": {
+      "passed": true,
+      "module": "patentrx.engines.biorx.engine"
+    },
+    "project_regression": {
+      "exit_code": 0,
+      "passed": true
+    },
+    "patent_pdf": {
+      "present": false,
+      "sha256": null
+    },
+    "patent_source_review": {
+      "complete": false,
+      "structure_records": 0,
+      "assay_records": 0,
+      "claim_rules": 0
+    }
+  },
+  "limitations": [
+    "Automated controls do not prove patent structure/assay/claim mappings",
+    "Engine functionality beyond tested controls is not certified"
+  ]
+}

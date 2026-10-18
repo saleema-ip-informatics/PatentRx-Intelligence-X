@@ -1,0 +1,17 @@
+{
+  "patent_id": "DEMO-ONLY",
+  "reaction_id": "DEMO-R1",
+  "source_reference": "synthetic training example",
+  "reactants": [
+    "CCO"
+  ],
+  "products": [
+    "CC=O"
+  ],
+  "reagents": [
+    "oxidant (unspecified)"
+  ],
+  "yield_percent": 83,
+  "evidence_text": "Synthetic illustration; not a patent extraction",
+  "source_verified": false
+}

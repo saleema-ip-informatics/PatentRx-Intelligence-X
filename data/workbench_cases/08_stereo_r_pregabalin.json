@@ -1,0 +1,23 @@
+{
+  "case_id": "US20110124909A1-R_PREGABALIN",
+  "title": "R-pregabalin (computational negative control)",
+  "engine": "stereorx",
+  "case_type": "computational_control",
+  "source": {
+    "kind": "generated_control",
+    "patent_id": null,
+    "url": "https://patents.google.com/patent/US20110124909A1/en",
+    "reference": "Generated from pregabalin connectivity for QC; not a patent-reported sample",
+    "structure_transcription_verified": false,
+    "expert_signoff": false
+  },
+  "inputs": {
+    "smiles": "CC(C)C[C@@H](CN)CC(=O)O",
+    "compute_3d": false
+  },
+  "qc_expectation": {
+    "cip": "R",
+    "chiral_centers": 1,
+    "scope": "RDKit connectivity/CIP only; no experimental ee inference"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "engine": "BioRx",
+  "patent": "EP3567030B1",
+  "status": "INTERNAL_QC_PASS",
+  "scope": "Patent-derived EGFR assay data extraction, normalization, potency calculations, and analytical evidence inventory",
+  "assay_compounds": 34,
+  "assay_measurements": 170,
+  "measurement_status_counts": {
+    "not_tested": 107,
+    "exact": 60,
+    "blank": 1,
+    "less_than": 2
+  },
+  "analytical_evidence_records": 34,
+  "provisional_lcms_candidates": 31,
+  "limitations": [
+    "Provisional LCMS assignments are not independently verified chemical structures",
+    "Complete atom-level patent structure mapping is outside this assay QC scope",
+    "Censored IC50 measurements are treated as bounds, not exact values",
+    "Missing measurements are not imputed",
+    "Absolute stereochemistry is not inferred from SFC retention time"
+  ],
+  "regression_tests": "PASS"
+}

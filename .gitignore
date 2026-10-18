@@ -1,0 +1,28 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.egg-info/
+.DS_Store
+
+# Local secrets and configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Temporary files and logs
+*.log
+*.tmp
+*.bak
+*.swp
+.coverage
+htmlcov/
+
+# Local editor settings
+.vscode/
+.idea/
+
+# Preserve original application backup locally
+app.py.original_backup

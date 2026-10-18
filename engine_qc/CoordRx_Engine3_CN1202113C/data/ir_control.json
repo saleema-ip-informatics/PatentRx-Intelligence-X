@@ -1,0 +1,16 @@
+{
+  "case_id": "ir_control",
+  "engine": "coordrx",
+  "inputs": {
+    "smiles": "[Ir+3]"
+  },
+  "expected": {
+    "valid": true,
+    "metal_count": 1,
+    "metal_element": "Ir",
+    "first_metal_explicit_neighbor_count": 0,
+    "geometry": "not_determined"
+  },
+  "provenance": "GENERATED_COMPUTATIONAL_CONTROL_NOT_PATENT_EXAMPLE",
+  "note": "supported-metal positive control"
+}

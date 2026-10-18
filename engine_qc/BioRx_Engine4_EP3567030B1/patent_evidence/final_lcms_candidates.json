@@ -1,0 +1,379 @@
+{
+  "patent": "EP3567030B1",
+  "records": [
+    {
+      "compound_number": 2,
+      "assay_identity": "Formate of compound 2",
+      "example_pages": [
+        41,
+        43
+      ],
+      "lcms_candidate_mz": 472.2,
+      "lcms_matches_in_section": 4,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 3,
+      "assay_identity": "Formate of compound 3",
+      "example_pages": [
+        43,
+        45
+      ],
+      "lcms_candidate_mz": 472.1,
+      "lcms_matches_in_section": 3,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 4,
+      "assay_identity": "Formate of compound 4",
+      "example_pages": [
+        45,
+        46
+      ],
+      "lcms_candidate_mz": 484.1,
+      "lcms_matches_in_section": 3,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 5,
+      "assay_identity": "Formate of compound 5",
+      "example_pages": [
+        46,
+        47
+      ],
+      "lcms_candidate_mz": 500.1,
+      "lcms_matches_in_section": 1,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 6,
+      "assay_identity": "Formate of compound 6",
+      "example_pages": [
+        47,
+        48
+      ],
+      "lcms_candidate_mz": 506.1,
+      "lcms_matches_in_section": 4,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 10,
+      "assay_identity": "Formate of compound 10",
+      "example_pages": [
+        53,
+        55
+      ],
+      "lcms_candidate_mz": 490.0,
+      "lcms_matches_in_section": 3,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 12,
+      "assay_identity": "Formate of compound 12",
+      "example_pages": [
+        57,
+        58
+      ],
+      "lcms_candidate_mz": 442.1,
+      "lcms_matches_in_section": 5,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 13,
+      "assay_identity": "Formate of compound 13",
+      "example_pages": [
+        58,
+        60
+      ],
+      "lcms_candidate_mz": 444.0,
+      "lcms_matches_in_section": 2,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 15,
+      "assay_identity": "Formate of compound 15",
+      "example_pages": [
+        61,
+        62
+      ],
+      "lcms_candidate_mz": 431.0,
+      "lcms_matches_in_section": 1,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 16,
+      "assay_identity": "Compound 16",
+      "example_pages": [
+        62,
+        64
+      ],
+      "lcms_candidate_mz": 455.1,
+      "lcms_matches_in_section": 4,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 17,
+      "assay_identity": "Formate of compound 17",
+      "example_pages": [
+        64,
+        66
+      ],
+      "lcms_candidate_mz": 458.1,
+      "lcms_matches_in_section": 3,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 18,
+      "assay_identity": "Compound 18",
+      "example_pages": [
+        66,
+        67
+      ],
+      "lcms_candidate_mz": 446.1,
+      "lcms_matches_in_section": 1,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 19,
+      "assay_identity": "Formate of compound 19",
+      "example_pages": [
+        67,
+        68
+      ],
+      "lcms_candidate_mz": 478.1,
+      "lcms_matches_in_section": 4,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 20,
+      "assay_identity": "Formate of compound 20",
+      "example_pages": [
+        68,
+        71
+      ],
+      "lcms_candidate_mz": 486.1,
+      "lcms_matches_in_section": 3,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 21,
+      "assay_identity": "Formate of compound 21",
+      "example_pages": [
+        71,
+        73
+      ],
+      "lcms_candidate_mz": 500.1,
+      "lcms_matches_in_section": 5,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 22,
+      "assay_identity": "Formate of compound 22",
+      "example_pages": [
+        73,
+        75
+      ],
+      "lcms_candidate_mz": 456.1,
+      "lcms_matches_in_section": 6,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 23,
+      "assay_identity": "Compound 23",
+      "example_pages": [
+        75,
+        76
+      ],
+      "lcms_candidate_mz": 433.0,
+      "lcms_matches_in_section": 1,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 24,
+      "assay_identity": "Formate of compound 24",
+      "example_pages": [
+        76,
+        77
+      ],
+      "lcms_candidate_mz": 20.0,
+      "lcms_matches_in_section": 3,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 25,
+      "assay_identity": "Compound 25",
+      "example_pages": [
+        77,
+        77
+      ],
+      "lcms_candidate_mz": 458.1,
+      "lcms_matches_in_section": 1,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 26,
+      "assay_identity": "Compound 26",
+      "example_pages": [
+        77,
+        78
+      ],
+      "lcms_candidate_mz": 472.0,
+      "lcms_matches_in_section": 1,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 27,
+      "assay_identity": "Compound 27",
+      "example_pages": [
+        78,
+        79
+      ],
+      "lcms_candidate_mz": 427.1,
+      "lcms_matches_in_section": 3,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 28,
+      "assay_identity": "Formate of compound 28",
+      "example_pages": [
+        79,
+        81
+      ],
+      "lcms_candidate_mz": 430.1,
+      "lcms_matches_in_section": 3,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 29,
+      "assay_identity": "Compound 29",
+      "example_pages": [
+        81,
+        81
+      ],
+      "lcms_candidate_mz": 30.0,
+      "lcms_matches_in_section": 1,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 30,
+      "assay_identity": "Hydrochloride of compound 30",
+      "example_pages": [
+        81,
+        82
+      ],
+      "lcms_candidate_mz": null,
+      "lcms_matches_in_section": 0,
+      "assignment_status": "NO_LCMS_MATCH"
+    },
+    {
+      "compound_number": 31,
+      "assay_identity": "Hydrochloride of compound 31",
+      "example_pages": [
+        82,
+        82
+      ],
+      "lcms_candidate_mz": 470.1,
+      "lcms_matches_in_section": 1,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 33,
+      "assay_identity": "Formate of compound 33",
+      "example_pages": [
+        82,
+        84
+      ],
+      "lcms_candidate_mz": 442.0,
+      "lcms_matches_in_section": 3,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 37,
+      "assay_identity": "Compound 37",
+      "example_pages": [
+        86,
+        88
+      ],
+      "lcms_candidate_mz": 444.3,
+      "lcms_matches_in_section": 3,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 38,
+      "assay_identity": "Compound 38",
+      "example_pages": [
+        86,
+        88
+      ],
+      "lcms_candidate_mz": 444.3,
+      "lcms_matches_in_section": 3,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 39,
+      "assay_identity": "Compound 39",
+      "example_pages": [
+        88,
+        90
+      ],
+      "lcms_candidate_mz": 444.1,
+      "lcms_matches_in_section": 1,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 41,
+      "assay_identity": "Compound 41",
+      "example_pages": [
+        90,
+        92
+      ],
+      "lcms_candidate_mz": null,
+      "lcms_matches_in_section": 0,
+      "assignment_status": "NO_LCMS_MATCH"
+    },
+    {
+      "compound_number": 45,
+      "assay_identity": "Compound 45",
+      "example_pages": [
+        94,
+        95
+      ],
+      "lcms_candidate_mz": null,
+      "lcms_matches_in_section": 0,
+      "assignment_status": "NO_LCMS_MATCH"
+    },
+    {
+      "compound_number": 46,
+      "assay_identity": "Formate of compound 46",
+      "example_pages": [
+        95,
+        96
+      ],
+      "lcms_candidate_mz": 444.0,
+      "lcms_matches_in_section": 3,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 48,
+      "assay_identity": "Formate of compound 48",
+      "example_pages": [
+        97,
+        99
+      ],
+      "lcms_candidate_mz": 424.2,
+      "lcms_matches_in_section": 3,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    },
+    {
+      "compound_number": 49,
+      "assay_identity": "Compound 49",
+      "example_pages": [
+        99,
+        100
+      ],
+      "lcms_candidate_mz": 462.2,
+      "lcms_matches_in_section": 3,
+      "assignment_status": "PROVISIONAL_LAST_LCMS"
+    }
+  ]
+}

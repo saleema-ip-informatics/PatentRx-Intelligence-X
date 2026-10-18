@@ -1,0 +1,9 @@
+{
+  "engine": "markushrx",
+  "patent": "US7569577B2",
+  "patent_url": "https://patents.google.com/patent/US7569577B2/en",
+  "package_type": "additive_internal_qc",
+  "source_structure_validation": "PENDING",
+  "computational_controls": "INCLUDED",
+  "final_status": "PENDING_LOCAL_EXECUTION_AND_SOURCE_REVIEW"
+}

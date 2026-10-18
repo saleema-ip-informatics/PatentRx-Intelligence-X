@@ -1,0 +1,15 @@
+{
+  "engine": "CoordRx",
+  "number": 3,
+  "patent": "CN1202113C",
+  "validation_scope": "INTERNAL_ONLY",
+  "status": "PENDING_CASE_VALIDATION_AND_PATENT_DRAWING_REVIEW",
+  "source_pdf_url": "https://patentimages.storage.googleapis.com/90/81/f0/9faeb3309f669f/CN1202113C.pdf",
+  "existing_source_modules": [
+    "src/patentrx/engines/coordrx/engine.py",
+    "src/patentrx/engines/coordrx/advanced.py",
+    "src/patentrx/engines/coordrx/qc3d.py"
+  ],
+  "selected_patent_structures_qualified": 0,
+  "no_existing_files_overwritten": true
+}

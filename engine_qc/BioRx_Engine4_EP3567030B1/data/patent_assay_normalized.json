@@ -1,0 +1,1059 @@
+{
+  "patent": "EP3567030B1",
+  "records": [
+    {
+      "compound": "Formate of compound 2",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "exact",
+          "value_nM": 16.5,
+          "raw": "16.5"
+        },
+        "egfr_l858r": {
+          "status": "exact",
+          "value_nM": 48.1,
+          "raw": "48.1"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 165.0,
+          "raw": "165"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Formate of compound 3",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "exact",
+          "value_nM": 0.02,
+          "raw": "0.02"
+        },
+        "egfr_l858r": {
+          "status": "exact",
+          "value_nM": 0.1,
+          "raw": "0.1"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 3.0,
+          "raw": "3"
+        },
+        "a431": {
+          "status": "exact",
+          "value_nM": 96.0,
+          "raw": "96"
+        }
+      }
+    },
+    {
+      "compound": "Formate of compound 4",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "blank",
+          "value_nM": null,
+          "raw": ""
+        },
+        "egfr_exon19del": {
+          "status": "exact",
+          "value_nM": 55.4,
+          "raw": "55.4"
+        },
+        "egfr_l858r": {
+          "status": "exact",
+          "value_nM": 30.1,
+          "raw": "30.1"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 396.0,
+          "raw": "396"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Formate of compound 5",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 2.725,
+          "raw": "2.725"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Formate of compound 6",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "less_than",
+          "value_nM": 0.015,
+          "raw": "<0.015"
+        },
+        "egfr_exon19del": {
+          "status": "exact",
+          "value_nM": 0.07,
+          "raw": "0.070"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 4.9,
+          "raw": "4.900"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Formate of compound 10",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 6.012,
+          "raw": "6.012"
+        },
+        "a431": {
+          "status": "exact",
+          "value_nM": 73.0,
+          "raw": "73.0"
+        }
+      }
+    },
+    {
+      "compound": "Formate of compound 12",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "exact",
+          "value_nM": 0.017,
+          "raw": "0.017"
+        },
+        "egfr_exon19del": {
+          "status": "exact",
+          "value_nM": 0.085,
+          "raw": "0.085"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 9.113,
+          "raw": "9.113"
+        },
+        "a431": {
+          "status": "exact",
+          "value_nM": 46.0,
+          "raw": "46.0"
+        }
+      }
+    },
+    {
+      "compound": "Formate of compound 13",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "exact",
+          "value_nM": 0.016,
+          "raw": "0.016"
+        },
+        "egfr_exon19del": {
+          "status": "exact",
+          "value_nM": 0.052,
+          "raw": "0.052"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 5.34,
+          "raw": "5.340"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Formate of compound 15",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 23.02,
+          "raw": "23.020"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Compound 16",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 539.587,
+          "raw": "539.587"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Formate of compound 17",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 29.385,
+          "raw": "29.385"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Compound 18",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "less_than",
+          "value_nM": 0.015,
+          "raw": "<0.015"
+        },
+        "egfr_exon19del": {
+          "status": "exact",
+          "value_nM": 0.05,
+          "raw": "0.050"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 12.534,
+          "raw": "12.534"
+        },
+        "a431": {
+          "status": "exact",
+          "value_nM": 59.0,
+          "raw": "59.0"
+        }
+      }
+    },
+    {
+      "compound": "Formate of compound 19",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 1280.181,
+          "raw": "1280.181"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Formate of compound 20",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 2.166,
+          "raw": "2.166"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Formate of compound 21",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 2.961,
+          "raw": "2.961"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Formate of compound 22",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 41.401,
+          "raw": "41.401"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Compound 23",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "exact",
+          "value_nM": 0.038,
+          "raw": "0.038"
+        },
+        "egfr_exon19del": {
+          "status": "exact",
+          "value_nM": 0.17,
+          "raw": "0.170"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 23.961,
+          "raw": "23.961"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Formate of compound 24",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 7.534,
+          "raw": "7.534"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Compound 25",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "exact",
+          "value_nM": 0.022,
+          "raw": "0.022"
+        },
+        "egfr_exon19del": {
+          "status": "exact",
+          "value_nM": 0.069,
+          "raw": "0.069"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 6.756,
+          "raw": "6.756"
+        },
+        "a431": {
+          "status": "exact",
+          "value_nM": 64.0,
+          "raw": "64.0"
+        }
+      }
+    },
+    {
+      "compound": "Compound 26",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 7.202,
+          "raw": "7.202"
+        },
+        "a431": {
+          "status": "exact",
+          "value_nM": 98.0,
+          "raw": "98.0"
+        }
+      }
+    },
+    {
+      "compound": "Compound 27",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 84.027,
+          "raw": "84.027"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Formate of compound 28",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 249.975,
+          "raw": "249.975"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Compound 29",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 14.662,
+          "raw": "14.662"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Hydrochloride of compound 30",
+      "pdf_page": 101,
+      "measurements": {
+        "egfr_wt": {
+          "status": "exact",
+          "value_nM": 0.021,
+          "raw": "0.021"
+        },
+        "egfr_exon19del": {
+          "status": "exact",
+          "value_nM": 0.052,
+          "raw": "0.052"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 11.177,
+          "raw": "11.177"
+        },
+        "a431": {
+          "status": "exact",
+          "value_nM": 71.0,
+          "raw": "71.0"
+        }
+      }
+    },
+    {
+      "compound": "Hydrochloride of compound 31",
+      "pdf_page": 102,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 15.279,
+          "raw": "15.279"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Formate of compound 33",
+      "pdf_page": 102,
+      "measurements": {
+        "egfr_wt": {
+          "status": "exact",
+          "value_nM": 0.114,
+          "raw": "0.114"
+        },
+        "egfr_exon19del": {
+          "status": "exact",
+          "value_nM": 0.29,
+          "raw": "0.290"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Compound 37",
+      "pdf_page": 102,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 21.2,
+          "raw": "21.2"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Compound 38",
+      "pdf_page": 102,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 24.9,
+          "raw": "24.9"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Compound 39",
+      "pdf_page": 102,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 16.8,
+          "raw": "16.8"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Compound 41",
+      "pdf_page": 102,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 5.74,
+          "raw": "5.74"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Compound 45",
+      "pdf_page": 102,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 8.86,
+          "raw": "8.86"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Formate of compound 46",
+      "pdf_page": 102,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 29.8,
+          "raw": "29.8"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Formate of compound 48",
+      "pdf_page": 102,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 8.55,
+          "raw": "8.55"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    },
+    {
+      "compound": "Compound 49",
+      "pdf_page": 102,
+      "measurements": {
+        "egfr_wt": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_exon19del": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "egfr_l858r": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        },
+        "pc9": {
+          "status": "exact",
+          "value_nM": 4.2,
+          "raw": "4.20"
+        },
+        "a431": {
+          "status": "not_tested",
+          "value_nM": null,
+          "raw": "-"
+        }
+      }
+    }
+  ]
+}

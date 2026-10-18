@@ -1,0 +1,81 @@
+{
+  "patent": "WO2011103442A2",
+  "figure": "Figure 2, PDF page 146",
+  "structures": {
+    "10": {
+      "smiles": "COc1cc(Br)cc(OC)c1",
+      "formula": "C8H9BrO2",
+      "source_status": "patent_figure_supported"
+    },
+    "aldehyde": {
+      "smiles": "COc1cc(Br)c(C=O)c(OC)c1",
+      "formula": "C9H9BrO3",
+      "source_status": "derived_from_patent_sequence"
+    },
+    "benzyl_alcohol": {
+      "smiles": "COc1cc(Br)c(CO)c(OC)c1",
+      "formula": "C9H11BrO3",
+      "source_status": "derived_from_patent_sequence"
+    },
+    "benzyl_bromide": {
+      "smiles": "COc1cc(Br)c(CBr)c(OC)c1",
+      "formula": "C9H10Br2O2",
+      "source_status": "derived_from_patent_sequence"
+    },
+    "11": {
+      "smiles": "CCOP(=O)(Cc1c(Br)cc(OC)cc1OC)OCC",
+      "formula": "C13H20BrO5P",
+      "source_status": "patent_figure_supported"
+    }
+  },
+  "steps": [
+    {
+      "id": "R001",
+      "reactant": "10",
+      "product": "aldehyde",
+      "reported_yield_percent": 99,
+      "bond_change_assessment": {
+        "expected_transformation": "Aromatic C-H to aromatic C-CHO",
+        "local_connectivity": "CONSISTENT",
+        "full_atom_mapping": "STRUCTURAL_MAPPING_VERIFIED"
+      }
+    },
+    {
+      "id": "R002",
+      "reactant": "aldehyde",
+      "product": "benzyl_alcohol",
+      "reported_yield_percent": 96,
+      "bond_change_assessment": {
+        "expected_transformation": "Aldehyde C=O to alcohol C-O",
+        "local_connectivity": "CONSISTENT",
+        "full_atom_mapping": "STRUCTURAL_MAPPING_VERIFIED"
+      }
+    },
+    {
+      "id": "R003",
+      "reactant": "benzyl_alcohol",
+      "product": "benzyl_bromide",
+      "reported_yield_percent": 96,
+      "bond_change_assessment": {
+        "expected_transformation": "Benzylic C-O to C-Br",
+        "local_connectivity": "CONSISTENT",
+        "full_atom_mapping": "STRUCTURAL_MAPPING_VERIFIED"
+      }
+    },
+    {
+      "id": "R004",
+      "reactant": "benzyl_bromide",
+      "product": "11",
+      "reported_yield_percent": 94,
+      "bond_change_assessment": {
+        "expected_transformation": "Benzylic C-Br to C-P",
+        "local_connectivity": "CONSISTENT",
+        "full_atom_mapping": "STRUCTURAL_MAPPING_VERIFIED"
+      }
+    }
+  ],
+  "qc_status": "STRUCTURAL_ATOM_MAPPING_QC_PASS",
+  "atom_mapping_verified": true,
+  "expert_signoff": false,
+  "atom_mapping_scope": "Computational structural correspondence and bond-edit verification for the supplied reactant/product SMILES; experimental atom provenance and independent expert signoff not established."
+}

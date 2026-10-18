@@ -1,0 +1,26 @@
+{
+  "engine": "StereoRx",
+  "patent": "US20110124909A1",
+  "qc_status": "COMPUTATIONAL_QC_PASS",
+  "patent_structure_review": "PATENT_DRAWING_CONSISTENT_WITH_RDKIT",
+  "validated_compound": "(S)-pregabalin",
+  "core_stereochemistry": "3/3 PASS",
+  "advanced_cip_comparison": "2/2 PASS",
+  "organic_3d_qc": "2/2 PASS",
+  "workbench_integration": "3/3 PASS",
+  "installed_cases": "3/3 PASS",
+  "project_regression": "67/67 PASS",
+  "patent_evidence_records": 4,
+  "controls": [
+    "R-pregabalin: computational control",
+    "Unspecified pregabalin: computational control"
+  ],
+  "limitations": [
+    "Patent-reported purity not independently reproduced",
+    "3D conformers are computational, not experimental",
+    "CIP change alone does not establish physical inversion",
+    "Validation covers selected cases, not all possible stereochemistry",
+    "Independent expert sign-off pending"
+  ],
+  "expert_signoff": false
+}

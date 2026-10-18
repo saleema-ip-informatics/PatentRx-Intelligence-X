@@ -1,0 +1,14 @@
+{
+  "case_id": "DEMO-STEREO-001",
+  "title": "Molecular stereochemistry and computed 3D conformer",
+  "engine": "stereorx",
+  "case_type": "synthetic_demonstration",
+  "source": {
+    "kind": "synthetic",
+    "reference": "RDKit-generated structure"
+  },
+  "inputs": {
+    "smiles": "C[C@H](O)C(=O)O",
+    "compute_3d": true
+  }
+}
