@@ -5,10 +5,9 @@ Five engines, five real patents, one shared workflow, built by a patent-informat
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![RDKit](https://img.shields.io/badge/RDKit-cheminformatics-green)
-![Tests](https://img.shields.io/badge/tests-98%2F98%20passing-brightgreen)
-<!-- TODO: replace the Tests badge with a GitHub Actions badge once CI is set up:
-[![CI](https://github.com/saleema-ip-informatics/PatentRx-Intelligence-X/actions/workflows/ci.yml/badge.svg)](https://github.com/saleema-ip-informatics/PatentRx-Intelligence-X/actions) -->
+[![CI](https://github.com/saleema-ip-informatics/PatentRx-Intelligence-X/actions/workflows/ci.yml/badge.svg)](https://github.com/saleema-ip-informatics/PatentRx-Intelligence-X/actions/workflows/ci.yml)
 
+**[Live demo: ReactionRx QC report](https://saleema-ip-informatics.github.io/PatentRx-Intelligence-X/)**
 ---
 
 ## Project Summary
