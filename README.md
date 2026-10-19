@@ -7,7 +7,7 @@ Five engines, five real patents, one shared workflow, built by a patent-informat
 ![RDKit](https://img.shields.io/badge/RDKit-cheminformatics-green)
 [![CI](https://github.com/saleema-ip-informatics/PatentRx-Intelligence-X/actions/workflows/ci.yml/badge.svg)](https://github.com/saleema-ip-informatics/PatentRx-Intelligence-X/actions/workflows/ci.yml)
 
-**[Live demo: ReactionRx QC report](https://saleema-ip-informatics.github.io/PatentRx-Intelligence-X/)**
+**[Live Demo](https://patentrx-intelligence-x-8ccbeudheh8smefr8bgpmz.streamlit.app/)**
 ---
 
 ## Project Summary
